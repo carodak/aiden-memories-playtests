@@ -1,0 +1,2213 @@
+﻿Change,Excluded,Name,Original,en,fr
+,,,"
+[AwakeOld]
+","
+[AwakeOld]
+","
+[AwakeOld]
+"
+,,???,${Awake.text1},${Awake.text1},${Awake.text1}
+,,???,${Awake.text2},${Awake.text2},${Awake.text2}
+,,???,${Awake.text3},${Awake.text3},${Awake.text3}
+,,???,${Awake.text4},${Awake.text4},${Awake.text4}
+,,???,${Awake.text5},${Awake.text5},${Awake.text5}
+,,The Host,${TheHost.text1},${TheHost.text1},${TheHost.text1}
+,,The Host,${TheHost.text2},${TheHost.text2},${TheHost.text2}
+,,???,${Awake.text6},${Awake.text6},${Awake.text6}
+,,???,${Awake.text7},${Awake.text7},${Awake.text7}
+,,The Host,${TheHost.text3},${TheHost.text3},${TheHost.text3}
+,,???,${Awake.text8},${Awake.text8},${Awake.text8}
+,,The Host,${TheHost.text10},${TheHost.text10},${TheHost.text10}
+,,???,${Awake.text10},${Awake.text10},${Awake.text10}
+,,???,${Awake.text11},${Awake.text11},${Awake.text11}
+,,The Host,${TheHost.text4},${TheHost.text4},${TheHost.text4}
+,,The Host,${TheHost.text5},${TheHost.text5},${TheHost.text5}
+,,The Host,${TheHost.text6},${TheHost.text6},${TheHost.text6}
+,,Aiden,${Awake.text12},${Awake.text12},${Awake.text12}
+,,The Host,${TheHost.text7},${TheHost.text7},${TheHost.text7}
+,,The Host,${TheHost.text8},${TheHost.text8},${TheHost.text8}
+,,The Host,${TheHost.text9},${TheHost.text9},${TheHost.text9}
+,,,"
+[Cutscene1]
+","
+[Cutscene1]
+","
+[Cutscene1]
+"
+,,,"
+[HealingHouseOld]
+","
+[HealingHouseOld]
+","
+[HealingHouseOld]
+"
+,,,"
+[RythmeGame]
+","
+[RythmeGame]
+","
+[RythmeGame]
+"
+,,,"
+[Oblivium1]
+","
+[Oblivium1]
+","
+[Oblivium1]
+"
+,,,"Navigation Directions in this complex space.
+ - To The Healer: Always downward
+ - To Nowhere: Everything else",,
+,,,"Welcome to The Healer’s lair—made possible by
+your questionable decisions and poor life choices.",,
+,,,"
+[InsideHealer]
+","
+[InsideHealer]
+","
+[InsideHealer]
+"
+,,The Healer,"Ah, so you’re the newcomer... Aiden.
+You’re later than I expected. I’ve been 
+waiting for you for many years.",,
+,,Aiden,"Waiting for me? But I don’t even know you...
+And where am I, anyway? This house just 
+appeared out of nowhere!",,
+,,The Healer,"You’re in the Oblivium, a place that exists 
+between what was and what is yet to be.",,
+,,Aiden,I don’t understand...,,
+,,The Healer,"Are you alright, child? I’ve been calling you,
+but you didn’t respond.",,
+,,Aiden,"You... I’ve seen you before... Ahh, my head...",,
+,,The Healer,Migraines? Let me take a look.,,
+,,The Healer,"Music... It’s curious, isn’t it? It can help 
+find balance, align body and mind.",,
+,,The Healer,"You seem calmer now. Tell me, Aiden, 
+can you recall what day it is?",,
+,,Aiden,I... I don’t know...,,
+,,The Healer,What do you remember?,,
+,,Aiden,Nothing...,,
+,,The Healer,"I see... Near-total amnesia. Perhaps it’s
+not such a bad thing...",,
+,,The Healer,"The Oblivium is a strange place...
+And a generous one. It will allow you to 
+reclaim your memories, one by one.",,
+,,Elderly Man,...,,
+,,The Healer,"Here, everything changes based on your feelings.
+But be careful. What you recover isn’t just an
+image of the past, it’s a reflection of yourself.",,
+,,Aiden,A reflection?,,
+,,The Healer,"Yes, and sometimes that reflection can
+be hard to face. Your mind, be it light or
+shadow, will guide you...or lead you astray.",,
+,,The Healer,"Here, take this journal. It will help
+you track your state of mind and the memories
+you recover.",,
+,,The Healer,"One day, you’ll have to make a final 
+choice. But for now, it’s too soon to decide...",,
+,,The Healer,"Keep the journal close. One day, 
+it will reveal what you seek.",,
+,,,"
+[Old]
+","
+[Old]
+","
+[Old]
+"
+,,,"
+[Start]
+","
+[Start]
+","
+[Start]
+"
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]Where...\| Where am I?",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]Everything’s so... empty.",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]Am I dead?\| Or... maybe dreaming?\| 
+I can’t feel anything...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]What... was that?!\|
+It felt... familiar...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]Urgh... my head... hurts...",,
+,,The Host,"Welcome to The Oblivium. As its ruler, I formally 
+greet you.",,
+,,The Host,"Now, more importantly... What do you think 
+of the decor? I did it myself!",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[50,50](a strange voice)
+Oh, but by 'myself,' I mean...\| well, isn't that 
+something for you to figure out? Haha!",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50](What does he mean?)",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]The Oblivium?",,
+,,The Host,"Hehe! \|Catchy, right? ...Well, you’ll get it eventually.
+For now, shouldn’t you be asking something more important?",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]...",,
+,,The Host,Who are you?,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50](Who am I...?\| Why can't I remember anything?)",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[50,50]Aiden...\| My name is Aiden...",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[50,50](a strange voice) 
+Haha! The kid's funny, trying to remember!",,
+,,The Host,"Let me give you a little advice, Aiden. 
+*Here, nothing moves... unless you truly try.*",,
+,,The Host,"Help the people in the village. Maybe 
+your memories will return.",,
+,,Aiden,The village? But there's nothing here!,,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[50,50](a strange voice)
+Haha!",,
+,,The Host,"Oh, one more thing. *Be careful with your emotions. 
+Things might get harder otherwise.*",,
+,,The Host,"Now, go see the healer!",,
+,,,"
+[Cutscene2]
+","
+[Cutscene2]
+","
+[Cutscene2]
+"
+,,,"
+[Oblivium2]
+","
+[Oblivium2]
+","
+[Oblivium2]
+"
+,,,"Navigation Directions in this complex space.
+- To The Healer: Always downward
+- To Almost Nowhere: Almost everything else",,
+,,,"Welcome to The Healer’s lair—made possible by 
+your questionable decisions and poor life choices.",,
+,,,"It is said that long ago, an old man walked so often 
+toward the village that his steps became a path for 
+all to follow.",,
+,,Elderly Man,You startled me!\| I was lost in thought...,,
+,,Elderly Man,"I tried to find my way to my son's village,
+but the path keeps hiding from me.",,
+,,Elderly Man,"I can see in your eyes the same look as my 
+son...\| Always searching, yet never truly 
+finding.",,
+,,Elderly Man,"Perhaps if you help me find my way,
+it might guide you as well.",,
+,,Elderly Man,"But I don’t know where to begin... Maybe
+there’s something in my house or outside
+that could help.",,
+,,Aiden,This feels off... I guess I should start over.,,
+,,,"A park with a relaxing musical zone. 
+Step to play chords: Top-Cm, Right-Gm, Left-Dm",,
+,,,"You step on the musical square, but nothing plays. 
+It seems you lack the inspiration to create music.",,
+,,Elderly Man,"This fear...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"This sadness...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"This anger...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"Now I remember... the direction to the village! 
+You must cross a long forest to reach the bridge!",,
+,,Elderly Man,"Maybe there’s something in my house —or 
+outside—that could help finding the path
+to the village.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]It's best not to venture out if I don't know
+my way around.",,
+,,,"
+[InsideGrandPa]
+","
+[InsideGrandPa]
+","
+[InsideGrandPa]
+"
+,,,"On the bedside table rests an old vinyl player.
+Would you like to play a record?",,
+,,,Play the first record: Fear,,
+,,,Play the second record: Sorrow,,
+,,,Play the final record: Anger,,
+,,,"Composed in fear, by an unknown artist, with chords: 
+Cm-Dm-Gm-Gm-Cm-Dm.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]Maybe I could go check out the park now...",,
+,,,"Composed in sorrow, by an unknown artist, with chords:
+Cm-Gm-Dm-Dm-Gm-Cm.",,
+,,,"Composed in anger, by an unknown artist, with chords:
+Cm-Dm-Gm-Gm-Dm-Cm.",,
+,,,"The chosen vinyl conveys fear, with chords:
+ Cm-Dm-Gm-Gm-Cm-Dm
+Would you like to play it again?",,
+,,,Yes,,
+,,,No,,
+,,,"The chosen vinyl conveys sorrow, with chords:
+ Cm-Gm-Dm-Dm-Gm-Cm
+Would you like to play it again?",,
+,,,"The chosen vinyl conveys anger, with chords:
+ Cm-Dm-Gm-Gm-Dm-Cm
+Would you like to play it again?",,
+,,,"
+[Forest-Village]
+","
+[Forest-Village]
+","
+[Forest-Village]
+"
+,,,"\pop[3] Haha, what a fool!",,
+,,,\pop[5] He will never succeed.,,
+,,,"\pop[7] Well boy, you should try harder.",,
+,,,\pop[8] Is he even worth watching? What a waste of time.,,
+,,,"
+[Bridge]
+","
+[Bridge]
+","
+[Bridge]
+"
+,,Aiden,"Ugh, the bridge seems to be broken. What should 
+I do?\| *I have a feeling this could affect my 
+mind or my memories.*",,
+,,,Try to repair the bridge.,,
+,,,Don’t do anything and go find the old man.,,
+,,,"Ugh, I can't seem to be able to repair
+the bridge...I better go find the old man.",,
+,,Elderly Man,"You really did fix the bridge. Good work, 
+now let’s keep going, we’re nearly there.",,
+,,Aiden,I’d rather not go through the forest now.,,
+,,,Cross the bridge to reach the village.,,
+,,,"
+[Utils]
+","
+[Utils]
+","
+[Utils]
+"
+,,,"
+[FlowerField]
+","
+[FlowerField]
+","
+[FlowerField]
+"
+,,,"The village is just ahead. 
+Thank you, young one...",,
+,,,"I hope my son will agree to see me...\| Family...\|
+such a strange bond, isn't it? \|The source of 
+the greatest joys, and the deepest sorrows.",,
+,,,"Take this. I hope this token can help you
+find what you’re looking for.",,
+,,Aiden,A memory token?... Wait... My head...,,
+,,,"
+[Village]
+","
+[Village]
+","
+[Village]
+"
+,,,"
+[RythmeGamePress]
+","
+[RythmeGamePress]
+","
+[RythmeGamePress]
+"
+,,,"
+[ToTheVillage]
+","
+[ToTheVillage]
+","
+[ToTheVillage]
+"
+,,,"
+[Memories]
+","
+[Memories]
+","
+[Memories]
+"
+,,,"
+[Memory1]
+","
+[Memory1]
+","
+[Memory1]
+"
+,,Grandma,Aiden!,,
+,,Grandma,"Aiden, what are you doing daydreaming like that? 
+Come on, I’ll push you on the swing!",,
+,,Little Aiden,"I'm coming, Grandma!",,
+,,Grandma,"*This child has already been through far 
+too much for his age...*",,
+,,Little Aiden,"Look, Grandma! I'm touching the sky!",,
+,,Grandma,"Careful, little bird! 
+Don’t fly too far from me!",,
+,,Grandma,*I had to take him away from his own mother...*,,
+,,Little Aiden,Wheee! I'm going so high!,,
+,,Grandma,"Hm?\| Ah... yes, you are, sweetheart.",,
+,,Grandma,"*Sigh*
+...",,
+,,Little Aiden,This is the best!,,
+,,,"
+[GrandPHouse]
+","
+[GrandPHouse]
+","
+[GrandPHouse]
+"
+,,Aiden,"This house feels familiar... maybe I'll find something that 
+might help me remember.",,
+,,,"
+[PhotoAlbum]
+","
+[PhotoAlbum]
+","
+[PhotoAlbum]
+"
+,,,"
+[MemoryStars]
+","
+[MemoryStars]
+","
+[MemoryStars]
+"
+,,Grandma,"Look up, Aiden. The sky is really beautiful, isn’t it?",,
+,,Little Aiden,"Wow!\| Do you see that Grandma...
+The stars, they shine like little lamps!",,
+,,Grandma,"Yes, I see it. And look, if you trace lines 
+between the stars, you can draw in the sky.",,
+,,Little Aiden,"Oh, great!",,
+,,Little Aiden,"Grandma, look!\| If I connect the one on the 
+left with the one on the right and back to 
+the left, it looks like a chicken!",,
+,,Grandma,"Yes, I see your chicken. Do you want us to
+draw some friends for it?",,
+,,Little Aiden,"Hmm... I’m not sure. It’s next to that 
+lonely star over there that looks like Mom.
+Do you think they can be friends?",,
+,,Grandma,"Yes, my heart, they can be the best friends in
+the world.",,
+,,Little Aiden,Do you think a star could fall into my pocket?,,
+,,Grandma,"Maybe so... But if a star falls into your 
+pocket, you’ll have to take care of it
+like a treasure.",,
+,,Little Aiden,"Alright, Grandma!",,
+,,Little Aiden,"Say Grandma, if the stars are treasures,
+when people die do they join the stars?",,
+,,Grandma,"Oh, my heart... Maybe so. But we are all 
+here with you, and for a very long time.
+So don’t you worry.",,
+,,Little Aiden,"Alright...\| But if ever...\| I’ll look for 
+her in the sky.",,
+,,The Developer,"Thank you for playing this demo! Your feedback 
+will help decide if the story continues: [LINK]
+
+Carotopia","Thank you for playing this demo! Your feedback 
+will help decide if the story continues: [LINK]
+
+Carotopia","Thank you for playing this demo! Your feedback 
+will help decide if the story continues: [LINK]
+
+Carotopia"
+,,,"
+[Test]
+","
+[Test]
+","
+[Test]
+"
+,,,"
+[Oblivium2-andre]
+",,
+,,The Healer,"You’re in the Oblivium, a place that exists 
+between what was and what’s yet to come.",,
+,,Aiden,"Now’s really not the time to crash in someone 
+else’s bed!\|...Weirdly comfy, though.",,
+,,Aiden,"It’s a big wicker wardrobe. I can’t look
+through while she’s watching me.",,
+,,Aiden,"That’s where she kept the journal.
+Now that I look at it more closely... 
+this wardrobe feels familiar.",,
+NEW,,Aiden,A painting of a house with a swing and a pond.,,
+,,Elderly Man,"You scared me!\| 
+I was just... lost in thought.",,
+,,Elderly Man,"I have been trying to get to my 
+son’s village, but the path keeps 
+disappearing on me.",,
+,,Elderly Man,"I can see it in your eyes...\| the same 
+look he used to have.\| Always searching 
+yet never truly finding.",,
+,,Elderly Man,"If you help me find my way, 
+you may find yours too.",,
+,,Elderly Man,"This fear...\| My son composed this music
+after we had argued... \|I haven’t spoken
+to him since...",,
+,,Aiden,"I should look around. Maybe I’ll find 
+something in one of the rooms...",,
+,,Aiden,"An old photo album.\|
+Maybe I...\| Never mind. Let’s open it.",,
+,,Aiden,"I’ve been here before... haven’t I? 
+Maybe something here can help me remember.",,
+,,Aiden,"I don’t remember much about these pictures... 
+but it hurts to look away.",,
+,,Aiden,Feels nice to be in bed... though it’s a bit small.,,
+,,Aiden,"This bathtub’s been used so many times...
+it’s probably older than me.",,
+,,Aiden,"It smells like vegetable soup. 
+It’s kind of comforting.",,
+,,Aiden,"I pestered my grandma so much she 
+got me my own radio, that, I remember.",,
+,,Aiden,Nothing beats a good fire.,,
+,,Aiden,"There are so many history and geography books... 
+They loved to learn about the world.",,
+,,Aiden,The fridge won’t open.,,
+,,Aiden,This mirror makes me look older.,,
+,,,"
+[MAP DISPLAY NAMES]
+","
+[MAP DISPLAY NAMES]
+","
+[MAP DISPLAY NAMES]
+"
+,,,Village,Village,Village
+,,,"
+[Common Events]
+","
+[Common Events]
+","
+[Common Events]
+"
+,,,"
+[SCRIPT CALLS]
+","
+[SCRIPT CALLS]
+","
+[SCRIPT CALLS]
+"
+,,,"
+[PLUGIN COMMANDS]
+","
+[PLUGIN COMMANDS]
+","
+[PLUGIN COMMANDS]
+"
+,,,cutscene1A,cutscene1A,cutscene1A
+,,,A...A flashback?,A...A flashback?,A...A flashback?
+,,,fade,fade,fade
+,,,cutscene1B,cutscene1B,cutscene1B
+,,,cutscene1C,cutscene1C,cutscene1C
+,,,That little boy... is that me?,,
+,,,Cm,Cm,Cm
+,,,chord-Cm-fear,chord-Cm-fear,chord-Cm-fear
+,,,Gm,Gm,Gm
+,,,chord-Gm-fear,chord-Gm-fear,chord-Gm-fear
+,,,Dm,Dm,Dm
+,,,chord-Dm-fear,chord-Dm-fear,chord-Dm-fear
+,,,chord-Cm-sad,chord-Cm-sad,chord-Cm-sad
+,,,chord-Gm-sad,chord-Gm-sad,chord-Gm-sad
+,,,chord-Dm-sad,chord-Dm-sad,chord-Dm-sad
+,,,chord-Cm-angry,chord-Cm-angry,chord-Cm-angry
+,,,chord-Gm-angry,chord-Gm-angry,chord-Gm-angry
+,,,chord-Dm-angry,chord-Dm-angry,chord-Dm-angry
+,,,It’s quiet out here... maybe I should start humming.,,
+,,,"Hmm... hmm-mmh... hmm... Yeah, that’s terrible.",,
+,,,Haha... it's all starting to look the same out here.,,
+,,,"[Wind rises, then fades]",,
+,,,...Is this the right path? I can't see where it ends.,,
+,,,"Still... if I go back now, will it be alright?",,
+,,,He said to “keep going!”,,
+,,,But what if there’s nothing ahead?,,
+,,,No signs. No guide. Just the weight of my thoughts.,,
+,,,At what point does doubt become insight?,,
+,,,Garamond,Garamond,Garamond
+,,,AnimatedGrass,,
+,,,Placeholder text for my album\\\\\\\\\\\\\\\,,
+,,,water,,
+,,,water-alone,,
+,,,AnimatedGrass-i,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,"A painting of a lovely house with a 
+swing and a pond.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"Hehe! \|Catchy, right? I came up with the name,
+had ages to think about it.",,
+,,The Host,"Hehe... well, you’ll get it eventually. For now, 
+shouldn’t you be asking something more important?",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Everything’s so... empty.",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Am I dead?\| Or... maybe dreaming?\| 
+I can’t feel anything...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]What... was that?!\|
+It felt... familiar...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Urgh... my head... hurts...",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[100,50](a strange voice)
+Oh, but by 'myself,' I mean...\| well, isn't that 
+something for you to figure out? Haha!",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50](What does he mean?)",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]The Oblivium?",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50](Who am I...?\| Why can't I remember anything?)",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Aiden...\| My name is Aiden...",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[100,50](a strange voice) 
+Haha! The kid's funny, trying to remember!",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[100,50](a strange voice)
+Haha!",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Where...\| Where am I?",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,...What am I even doing...,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"Hehe! \|Catchy, right? I came up with the name myself,
+had ages to think about it.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"Hehe! \|Catchy, isn’t it? I made the name up myself,
+had decade to think about it.",,
+,,The Host,"Hehe, you'll understand in time. For now, shouldn't 
+you be asking something more important?",,
+,,Aiden,"I just woke up and I’m already back in bed... Guess 
+the migraines make me sick. I feel a bit uneasy... resting 
+in someone's else's bed... but it's strangely comfortable.",,
+,,Aiden,...Feels good.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"Mhm! I made the name up myself, had decade to 
+think about it.",,
+,,The Host,"You'll understand in time. For now, shouldn't 
+you be asking something more important?",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]What... was that? 
+It felt... familiar.",,
+,,The Host,"Haha, I made the name up myself, 
+had decade to think about it.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Everything’s so...\| empty.",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Am I dead?\| Or... \|maybe dreaming?\| 
+I can’t feel anything...",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"Haha! You'll understand in time. For now, shouldn't 
+you be asking something more important?",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50](Who am I...? Why can't I remember anything?)",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Aiden... My name is Aiden, I think...",,
+,,Aiden,The village? But there's nothing here...,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Where... am I?",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]It's so empty here...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Am I dead? \|Or is this a dream?
+I can't feel anything...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]What was that? It felt so familiar...",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Urgh... My head... It hurts...",,
+,,,"Haha, it's all starting to look the same out here.",,
+,,,[Wind music effect that comes and dies],,
+,,,..Is this the right path? I can't see where it ends.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,It’s all starting to look the same.,,
+,,,Is this the right path? I can't see where it ends.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,He said to “Keep going!”,,
+,,,"No signs, no guide, just the weight of my thoughts.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,"He said to go straight, they always say that.",,
+,,,“Keep going!”,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,Maybe I took a wrong turn...,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,Is this the right path? ,,
+,,,I can’t see where it ends.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,Maybe the old man was mistaken...,,
+,,,or maybe I took a wrong turn.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"I can see it in your eyes...\| the same 
+look he used to have. Always searching 
+yet never truly finding.",,
+,,Elderly Man,"Maybe if you help me find my way, 
+you’ll find yours too.",,
+,,,Is this the right path? I see no end.,,
+,,,Maybe I’ve gotten lost.,,
+,,,"If I turn back now, will it be alright?",,
+,,,“Keep going!” What if there’s nowhere to turn?,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[100,50]Am I dead? Or is this a dream?
+I can't feel anything...",,
+,,Aiden,"An old photo album... it feels like 
+I should know whose it is.",,
+,,Aiden,"I don’t remember these pictures... 
+but it hurts to look away.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,I don’t remember these pictures... but it hurts to look away.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,mom is crying\\\\\\\\\\\\\\\,mom is crying\\\\\\\\\\\\\\\,mom is crying\\\\\\\\\\\\\\\
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,"I hope my son will agree to see me...\\|
+Family — such a strange bond, isn't it?
+The source of the greatest joys, and 
+the deepest sorrows.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,"
+[DATABASE ENTRIES]
+","
+[DATABASE ENTRIES]
+","
+[DATABASE ENTRIES]
+"
+,,,"
+[GAME TITLE]
+","
+[GAME TITLE]
+","
+[GAME TITLE]
+"
+,,,Through Aiden’s memories,Through Aiden’s memories,Through Aiden’s memories
+,,,"
+[Title Screen]
+","
+[Title Screen]
+","
+[Title Screen]
+"
+,,,Ruins.png,Ruins.png,Ruins.png
+,,,"
+[Actors]
+","
+[Actors]
+","
+[Actors]
+"
+,,,Aiden,Aiden,Aiden
+,,,OldMan,OldMan,OldMan
+,,,OldManWLadder,OldManWLadder,OldManWLadder
+,,,"
+[Classes]
+","
+[Classes]
+","
+[Classes]
+"
+,,,Swordsman,Swordsman,Swordsman
+,,,Sorcerer,Sorcerer,Sorcerer
+,,,Priest,Priest,Priest
+,,,Knight,Knight,Knight
+,,,Martial Artist,Martial Artist,Martial Artist
+,,,Magic Swordsman,Magic Swordsman,Magic Swordsman
+,,,Hunter,Hunter,Hunter
+,,,Bandit,Bandit,Bandit
+,,,"
+[Skills]
+","
+[Skills]
+","
+[Skills]
+"
+,,,Attack,Attack,Attack
+,,,%1 attacks!,%1 attacks!,%1 attacks!
+,,,Guard,Guard,Guard
+,,,%1 guards.,%1 guards.,%1 guards.
+,,,-----Reserved,-----Reserved,-----Reserved
+,,,"Below are spaces for when you would like to display
+things above skills when you open the menu.","Below are spaces for when you would like to display
+things above skills when you open the menu.","Below are spaces for when you would like to display
+things above skills when you open the menu."
+,,,-----Enemy,-----Enemy,-----Enemy
+,,,Dual Attack,Dual Attack,Dual Attack
+,,,Performs a series of attacks on an enemy.,Performs a series of attacks on an enemy.,Performs a series of attacks on an enemy.
+,,,Double Attack,Double Attack,Double Attack
+,,,Performs a double attack on a random enemy.,Performs a double attack on a random enemy.,Performs a double attack on a random enemy.
+,,,Triple Attack,Triple Attack,Triple Attack
+,,,Performs a triple attack on a random enemy.,Performs a triple attack on a random enemy.,Performs a triple attack on a random enemy.
+,,,Escape,Escape,Escape
+,,,The user flees from battle.,The user flees from battle.,The user flees from battle.
+,,,%1 flees.,%1 flees.,%1 flees.
+,,,Wait and See,Wait and See,Wait and See
+,,,Waits to see what happens.,Waits to see what happens.,Waits to see what happens.
+,,,%1 is waiting to see what happens.,%1 is waiting to see what happens.,%1 is waiting to see what happens.
+,,,Blood Suck,Blood Suck,Blood Suck
+,,,Absorbs HP from an enemy.,Absorbs HP from an enemy.,Absorbs HP from an enemy.
+,,,%1 sucks blood!,%1 sucks blood!,%1 sucks blood!
+,,,Meditate,Meditate,Meditate
+,,,Restores the user’s HP.,Restores the user’s HP.,Restores the user’s HP.
+,,,%1 meditates!,%1 meditates!,%1 meditates!
+,,,Tranquilizer,Tranquilizer,Tranquilizer
+,,,Stabs an enemy with paralyzing needles.,Stabs an enemy with paralyzing needles.,Stabs an enemy with paralyzing needles.
+,,,%1 does %2!,%1 does %2!,%1 does %2!
+,,,Bodyslam,Bodyslam,Bodyslam
+,,,Inflicts damage and causes an enemy to lose balance.,Inflicts damage and causes an enemy to lose balance.,Inflicts damage and causes an enemy to lose balance.
+,,,%1 does bodyslam!,%1 does bodyslam!,%1 does bodyslam!
+,,,Shock,Shock,Shock
+,,,Inflicts Thunder-type damage and Paralysis state.,Inflicts Thunder-type damage and Paralysis state.,Inflicts Thunder-type damage and Paralysis state.
+,,,Slime,Slime,Slime
+,,,Covers an enemy in slime and lowers their Agility.,Covers an enemy in slime and lowers their Agility.,Covers an enemy in slime and lowers their Agility.
+,,,%1 shoots out slime!,%1 shoots out slime!,%1 shoots out slime!
+,,,Venom,Venom,Venom
+,,,Sprays an enemy with venom and inflicts Poison state.,Sprays an enemy with venom and inflicts Poison state.,Sprays an enemy with venom and inflicts Poison state.
+,,,%1 uses %2!,%1 uses %2!,%1 uses %2!
+,,,Shout,Shout,Shout
+,,,"Rouses the user’s fighting spirit and fortifies
+their abilities.","Rouses the user’s fighting spirit and fortifies
+their abilities.","Rouses the user’s fighting spirit and fortifies
+their abilities."
+,,,%1 rouses their fighting spirit!,%1 rouses their fighting spirit!,%1 rouses their fighting spirit!
+,,,Bizarre Dance,Bizarre Dance,Bizarre Dance
+,,,Absorbs MP from an enemy.,Absorbs MP from an enemy.,Absorbs MP from an enemy.
+,,,%1 dances bizarrely!,%1 dances bizarrely!,%1 dances bizarrely!
+,,,Petrify,Petrify,Petrify
+,,,Glares at an enemy and paralyzes them.,Glares at an enemy and paralyzes them.,Glares at an enemy and paralyzes them.
+,,,Eye Poke,Eye Poke,Eye Poke
+,,,Blinds an enemy.,Blinds an enemy.,Blinds an enemy.
+,,,Sandstorm,Sandstorm,Sandstorm
+,,,Blinds all enemies.,Blinds all enemies.,Blinds all enemies.
+,,,Flash,Flash,Flash
+,,,Toxic Fog,Toxic Fog,Toxic Fog
+,,,Poisons all enemies.,Poisons all enemies.,Poisons all enemies.
+,,,Lullaby,Lullaby,Lullaby
+,,,Puts all enemies to sleep.,Puts all enemies to sleep.,Puts all enemies to sleep.
+,,,%1 sings a Lullaby!,%1 sings a Lullaby!,%1 sings a Lullaby!
+,,,Alluring Melody,Alluring Melody,Alluring Melody
+,,,Charms all enemies.,Charms all enemies.,Charms all enemies.
+,,,%1 sings an Alluring Melody!,%1 sings an Alluring Melody!,%1 sings an Alluring Melody!
+,,,Song of Silence,Song of Silence,Song of Silence
+,,,Seals all enemies’ magic.,Seals all enemies’ magic.,Seals all enemies’ magic.
+,,,%1 sings a Song of Silence!,%1 sings a Song of Silence!,%1 sings a Song of Silence!
+,,,Sonic Wave,Sonic Wave,Sonic Wave
+,,,Confuses all enemies.,Confuses all enemies.,Confuses all enemies.
+,,,Stone Throw,Stone Throw,Stone Throw
+,,,Inflicts Earth-type damage on all enemies.,Inflicts Earth-type damage on all enemies.,Inflicts Earth-type damage on all enemies.
+,,,Dust Devil,Dust Devil,Dust Devil
+,,,Inflicts Wind-type damage on all enemies.,Inflicts Wind-type damage on all enemies.,Inflicts Wind-type damage on all enemies.
+,,,Fire Breath,Fire Breath,Fire Breath
+,,,Inflicts Fire-type damage on all enemies.,Inflicts Fire-type damage on all enemies.,Inflicts Fire-type damage on all enemies.
+,,,Ice Breath,Ice Breath,Ice Breath
+,,,Inflicts Ice-type damage on all enemies.,Inflicts Ice-type damage on all enemies.,Inflicts Ice-type damage on all enemies.
+,,,Earthquake,Earthquake,Earthquake
+,,,%1 causes an Earthquake!,%1 causes an Earthquake!,%1 causes an Earthquake!
+,,,Tsunami,Tsunami,Tsunami
+,,,Inflicts Water-type damage on all enemies.,Inflicts Water-type damage on all enemies.,Inflicts Water-type damage on all enemies.
+,,,%1 causes a Tsunami!,%1 causes a Tsunami!,%1 causes a Tsunami!
+,,,Scratch,Scratch,Scratch
+,,,Inflicts damage on an enemy.,Inflicts damage on an enemy.,Inflicts damage on an enemy.
+,,,-----Basic Magic,-----Basic Magic,-----Basic Magic
+,,,Heal I,Heal I,Heal I
+,,,Restores an ally’s HP.,Restores an ally’s HP.,Restores an ally’s HP.
+,,,%1 casts %2!,%1 casts %2!,%1 casts %2!
+,,,Heal II,Heal II,Heal II
+,,,Heal III,Heal III,Heal III
+,,,Recover I,Recover I,Recover I
+,,,Restores all allies’ HP.,Restores all allies’ HP.,Restores all allies’ HP.
+,,,Recover II,Recover II,Recover II
+,,,Recover III,Recover III,Recover III
+,,,Cure I,Cure I,Cure I
+,,,"Cures an ally’s Poison, Paralysis, or Sleep state.","Cures an ally’s Poison, Paralysis, or Sleep state.","Cures an ally’s Poison, Paralysis, or Sleep state."
+,,,Cure II,Cure II,Cure II
+,,,Cures an ally’s status ailments other than Dead.,Cures an ally’s status ailments other than Dead.,Cures an ally’s status ailments other than Dead.
+,,,Cure III,Cure III,Cure III
+,,,Cures all allies’ status ailments other than Dead.,Cures all allies’ status ailments other than Dead.,Cures all allies’ status ailments other than Dead.
+,,,Raise I,Raise I,Raise I
+,,,Raises an ally from the dead.,Raises an ally from the dead.,Raises an ally from the dead.
+,,,Raise II,Raise II,Raise II
+,,,"Raises an ally from the dead and greatly restores
+their HP.","Raises an ally from the dead and greatly restores
+their HP.","Raises an ally from the dead and greatly restores
+their HP."
+,,,Poison,Poison,Poison
+,,,Blind,Blind,Blind
+,,,Confuse,Confuse,Confuse
+,,,Silence,Silence,Silence
+,,,Sleep,Sleep,Sleep
+,,,Paralyze,Paralyze,Paralyze
+,,,Paralyzes all enemies.,Paralyzes all enemies.,Paralyzes all enemies.
+,,,Weapon Bless,Weapon Bless,Weapon Bless
+,,,"Increases an ally’s Attack.
+Usable up to 2 times in a row.","Increases an ally’s Attack.
+Usable up to 2 times in a row.","Increases an ally’s Attack.
+Usable up to 2 times in a row."
+,,,Weapon Curse,Weapon Curse,Weapon Curse
+,,,"Decreases all enemies’ Attack.
+Usable up to 2 times in a row.","Decreases all enemies’ Attack.
+Usable up to 2 times in a row.","Decreases all enemies’ Attack.
+Usable up to 2 times in a row."
+,,,Armor Bless,Armor Bless,Armor Bless
+,,,"Increases an ally’s Defense.
+Usable up to 2 times in a row.","Increases an ally’s Defense.
+Usable up to 2 times in a row.","Increases an ally’s Defense.
+Usable up to 2 times in a row."
+,,,Armor Curse,Armor Curse,Armor Curse
+,,,"Decreases all enemies’ Defense.
+Usable up to 2 times in a row.","Decreases all enemies’ Defense.
+Usable up to 2 times in a row.","Decreases all enemies’ Defense.
+Usable up to 2 times in a row."
+,,,Spirit Bless,Spirit Bless,Spirit Bless
+,,,"Increases an ally’s M.Attack.
+Usable up to 2 times in a row.","Increases an ally’s M.Attack.
+Usable up to 2 times in a row.","Increases an ally’s M.Attack.
+Usable up to 2 times in a row."
+,,,Spirit Curse,Spirit Curse,Spirit Curse
+,,,"Decreases all enemies’ M.Attack.
+Usable up to 2 times in a row.","Decreases all enemies’ M.Attack.
+Usable up to 2 times in a row.","Decreases all enemies’ M.Attack.
+Usable up to 2 times in a row."
+,,,Divine Bless,Divine Bless,Divine Bless
+,,,"Increases an ally’s M.Defense.
+Usable up to 2 times in a row.","Increases an ally’s M.Defense.
+Usable up to 2 times in a row.","Increases an ally’s M.Defense.
+Usable up to 2 times in a row."
+,,,Divine Curse,Divine Curse,Divine Curse
+,,,"Decreases all enemies’ M.Defense.
+Usable up to 2 times in a row.","Decreases all enemies’ M.Defense.
+Usable up to 2 times in a row.","Decreases all enemies’ M.Defense.
+Usable up to 2 times in a row."
+,,,Quicken Movement,Quicken Movement,Quicken Movement
+,,,"Increases an ally’s Agility.
+Usable up to 2 times in a row.","Increases an ally’s Agility.
+Usable up to 2 times in a row.","Increases an ally’s Agility.
+Usable up to 2 times in a row."
+,,,Slow Movement,Slow Movement,Slow Movement
+,,,"Decreases all enemies’ Agility.
+Usable up to 2 times in a row.","Decreases all enemies’ Agility.
+Usable up to 2 times in a row.","Decreases all enemies’ Agility.
+Usable up to 2 times in a row."
+,,,Life Drain,Life Drain,Life Drain
+,,,Mana Drain,Mana Drain,Mana Drain
+,,,Fire I,Fire I,Fire I
+,,,Inflicts Fire-type damage on an enemy.,Inflicts Fire-type damage on an enemy.,Inflicts Fire-type damage on an enemy.
+,,,Fire II,Fire II,Fire II
+,,,Fire III,Fire III,Fire III
+,,,Flame I,Flame I,Flame I
+,,,Flame II,Flame II,Flame II
+,,,Flame III,Flame III,Flame III
+,,,Ice I,Ice I,Ice I
+,,,Inflicts Ice-type damage on an enemy.,Inflicts Ice-type damage on an enemy.,Inflicts Ice-type damage on an enemy.
+,,,Ice II,Ice II,Ice II
+,,,Ice III,Ice III,Ice III
+,,,Blizzard I,Blizzard I,Blizzard I
+,,,Blizzard II,Blizzard II,Blizzard II
+,,,Blizzard III,Blizzard III,Blizzard III
+,,,Thunder I,Thunder I,Thunder I
+,,,Inflicts Thunder-type damage on an enemy.,Inflicts Thunder-type damage on an enemy.,Inflicts Thunder-type damage on an enemy.
+,,,Thunder II,Thunder II,Thunder II
+,,,Thunder III,Thunder III,Thunder III
+,,,Spark I,Spark I,Spark I
+,,,Inflicts Thunder-type damage on all enemies.,Inflicts Thunder-type damage on all enemies.,Inflicts Thunder-type damage on all enemies.
+,,,Spark II,Spark II,Spark II
+,,,Spark III,Spark III,Spark III
+,,,Water I,Water I,Water I
+,,,Inflicts Water-type damage on an enemy.,Inflicts Water-type damage on an enemy.,Inflicts Water-type damage on an enemy.
+,,,Water II,Water II,Water II
+,,,Wave I,Wave I,Wave I
+,,,Wave II,Wave II,Wave II
+,,,Stone I,Stone I,Stone I
+,,,Inflicts Earth-type damage on an enemy.,Inflicts Earth-type damage on an enemy.,Inflicts Earth-type damage on an enemy.
+,,,Stone II,Stone II,Stone II
+,,,Quake I,Quake I,Quake I
+,,,Quake II,Quake II,Quake II
+,,,Wind I,Wind I,Wind I
+,,,Inflicts Wind-type damage on an enemy.,Inflicts Wind-type damage on an enemy.,Inflicts Wind-type damage on an enemy.
+,,,Wind II,Wind II,Wind II
+,,,Tornado I,Tornado I,Tornado I
+,,,Tornado II,Tornado II,Tornado II
+,,,Saint I,Saint I,Saint I
+,,,Inflicts Light-type damage on an enemy.,Inflicts Light-type damage on an enemy.,Inflicts Light-type damage on an enemy.
+,,,Saint II,Saint II,Saint II
+,,,Starlight I,Starlight I,Starlight I
+,,,Inflicts Light-type damage on all enemies.,Inflicts Light-type damage on all enemies.,Inflicts Light-type damage on all enemies.
+,,,Starlight II,Starlight II,Starlight II
+,,,Shade I,Shade I,Shade I
+,,,Inflicts Darkness-type damage on an enemy.,Inflicts Darkness-type damage on an enemy.,Inflicts Darkness-type damage on an enemy.
+,,,Shade II,Shade II,Shade II
+,,,Darkness I,Darkness I,Darkness I
+,,,Inflicts Darkness-type damage on all enemies.,Inflicts Darkness-type damage on all enemies.,Inflicts Darkness-type damage on all enemies.
+,,,Darkness II,Darkness II,Darkness II
+,,,Burst I,Burst I,Burst I
+,,,Inflicts damage on an enemy regardless of Defense.,Inflicts damage on an enemy regardless of Defense.,Inflicts damage on an enemy regardless of Defense.
+,,,Burst II,Burst II,Burst II
+,,,Nuke I,Nuke I,Nuke I
+,,,Inflicts damage on all enemies regardless of Defense.,Inflicts damage on all enemies regardless of Defense.,Inflicts damage on all enemies regardless of Defense.
+,,,Nuke II,Nuke II,Nuke II
+,,,-----Swordsman Skills,-----Swordsman Skills,-----Swordsman Skills
+,,,Strong Attack,Strong Attack,Strong Attack
+,,,Performs a powerful attack on an enemy.,Performs a powerful attack on an enemy.,Performs a powerful attack on an enemy.
+,,,Slash,Slash,Slash
+,,,Attacks all enemies.,Attacks all enemies.,Attacks all enemies.
+,,,%1 mows down the enemy!,%1 mows down the enemy!,%1 mows down the enemy!
+,,,Performs an attack on an enemy twice.,Performs an attack on an enemy twice.,Performs an attack on an enemy twice.
+,,,%1 dual attacks!,%1 dual attacks!,%1 dual attacks!
+,,,Willpower,Willpower,Willpower
+,,,"Rouses the user’s fighting spirit and increases
+Attack. Usable up to 2 times in a row.","Rouses the user’s fighting spirit and increases
+Attack. Usable up to 2 times in a row.","Rouses the user’s fighting spirit and increases
+Attack. Usable up to 2 times in a row."
+,,,First Aid,First Aid,First Aid
+,,,%1 performs %2!,%1 performs %2!,%1 performs %2!
+,,,Maiden’s Stance,Maiden’s Stance,Maiden’s Stance
+,,,Performs a super powerful attack on an enemy.,Performs a super powerful attack on an enemy.,Performs a super powerful attack on an enemy.
+,,,Spin Crash,Spin Crash,Spin Crash
+,,,Performs a powerful attack on all enemies.,Performs a powerful attack on all enemies.,Performs a powerful attack on all enemies.
+,,,-----Priest & Sorcerer Skills,-----Priest & Sorcerer Skills,-----Priest & Sorcerer Skills
+,,,Magic Barrier,Magic Barrier,Magic Barrier
+,,,"Increases all allies’ Defense and M.Defense.
+Usable up to 2 times in a row.","Increases all allies’ Defense and M.Defense.
+Usable up to 2 times in a row.","Increases all allies’ Defense and M.Defense.
+Usable up to 2 times in a row."
+,,,%1 offered a prayer!,%1 offered a prayer!,%1 offered a prayer!
+,,,Spell Enhancement,Spell Enhancement,Spell Enhancement
+,,,Greatly increases the user’s M.Attack for 5 turns.,Greatly increases the user’s M.Attack for 5 turns.,Greatly increases the user’s M.Attack for 5 turns.
+,,,Yell,Yell,Yell
+,,,"Rouses all allies’ fighting spirit and increases
+Attack. Usable up to 2 times in a row.","Rouses all allies’ fighting spirit and increases
+Attack. Usable up to 2 times in a row.","Rouses all allies’ fighting spirit and increases
+Attack. Usable up to 2 times in a row."
+,,,%1 gave encouragement!,%1 gave encouragement!,%1 gave encouragement!
+,,,Meteor,Meteor,Meteor
+,,,Fire Weapon,Fire Weapon,Fire Weapon
+,,,Bestows Fire-type for 5 turns.,Bestows Fire-type for 5 turns.,Bestows Fire-type for 5 turns.
+,,,Ice Weapon,Ice Weapon,Ice Weapon
+,,,Bestows Ice-type for 5 turns.,Bestows Ice-type for 5 turns.,Bestows Ice-type for 5 turns.
+,,,Thunder Weapon,Thunder Weapon,Thunder Weapon
+,,,Bestows Thunder-type for 5 turns.,Bestows Thunder-type for 5 turns.,Bestows Thunder-type for 5 turns.
+,,,Magic Mirror,Magic Mirror,Magic Mirror
+,,,Reflects M.Attack aimed at the user for 5 turns.,Reflects M.Attack aimed at the user for 5 turns.,Reflects M.Attack aimed at the user for 5 turns.
+,,,-----Knight Skills,-----Knight Skills,-----Knight Skills
+,,,Protect,Protect,Protect
+,,,Automatically protects allies with low HP for 1 turn.,Automatically protects allies with low HP for 1 turn.,Automatically protects allies with low HP for 1 turn.
+,,,%1 protects team.,%1 protects team.,%1 protects team.
+,,,Falcon Thrust,Falcon Thrust,Falcon Thrust
+,,,"Performs an attack on an enemy faster than anyone
+else.","Performs an attack on an enemy faster than anyone
+else.","Performs an attack on an enemy faster than anyone
+else."
+,,,Double Thrust,Double Thrust,Double Thrust
+,,,Armor Piercer,Armor Piercer,Armor Piercer
+,,,Battle Cry,Battle Cry,Battle Cry
+,,,%1 made a battle cry!,%1 made a battle cry!,%1 made a battle cry!
+,,,Windmill,Windmill,Windmill
+,,,Clear Mind,Clear Mind,Clear Mind
+,,,Slightly increases the user’s TP.,Slightly increases the user’s TP.,Slightly increases the user’s TP.
+,,,%1 cleared their mind!,%1 cleared their mind!,%1 cleared their mind!
+,,,Wild Thrust,Wild Thrust,Wild Thrust
+,,,Randomly performs 4 attacks on 4 enemies.,Randomly performs 4 attacks on 4 enemies.,Randomly performs 4 attacks on 4 enemies.
+,,,-----Bandit Skills,-----Bandit Skills,-----Bandit Skills
+,,,Warm-up,Warm-up,Warm-up
+,,,Increases the user’s Agility.,Increases the user’s Agility.,Increases the user’s Agility.
+,,,%1 started %2!,%1 started %2!,%1 started %2!
+,,,Flare,Flare,Flare
+,,,Watchful Eye,Watchful Eye,Watchful Eye
+,,,"Increases items and money gained from battle for
+a while.","Increases items and money gained from battle for
+a while.","Increases items and money gained from battle for
+a while."
+,,,%1 is observing their surroundings carefully.,%1 is observing their surroundings carefully.,%1 is observing their surroundings carefully.
+,,,Wind Call,Wind Call,Wind Call
+,,,Hide,Hide,Hide
+,,,Makes the user harder to target.,Makes the user harder to target.,Makes the user harder to target.
+,,,%1 hid.,%1 hid.,%1 hid.
+,,,-----Martial Artist Skills,-----Martial Artist Skills,-----Martial Artist Skills
+,,,Sweep,Sweep,Sweep
+,,,Inflicts damage and causes all enemies to lose balance.,Inflicts damage and causes all enemies to lose balance.,Inflicts damage and causes all enemies to lose balance.
+,,,Qigong,Qigong,Qigong
+,,,Cures the user from being weakened.,Cures the user from being weakened.,Cures the user from being weakened.
+,,,Roundhouse Kick,Roundhouse Kick,Roundhouse Kick
+,,,Inflicts huge damage on all enemies.,Inflicts huge damage on all enemies.,Inflicts huge damage on all enemies.
+,,,Tiger Dance,Tiger Dance,Tiger Dance
+,,,-----Hunter Skills,-----Hunter Skills,-----Hunter Skills
+,,,Point Shot,Point Shot,Point Shot
+,,,Decreases an enemy’s Attack and Defense.,Decreases an enemy’s Attack and Defense.,Decreases an enemy’s Attack and Defense.
+,,,Stun Shot,Stun Shot,Stun Shot
+,,,"Shoots at the footing of all enemies and causes them
+to lose balance.","Shoots at the footing of all enemies and causes them
+to lose balance.","Shoots at the footing of all enemies and causes them
+to lose balance."
+,,,Team Shot,Team Shot,Team Shot
+,,,Inflicts damage on an enemy 5 times.,Inflicts damage on an enemy 5 times.,Inflicts damage on an enemy 5 times.
+,,,Rain Shot,Rain Shot,Rain Shot
+,,,Inflicts damage on all enemies 2 times.,Inflicts damage on all enemies 2 times.,Inflicts damage on all enemies 2 times.
+,,,"
+[Items]
+","
+[Items]
+","
+[Items]
+"
+,,,"Below are spaces for when you would like to display
+items above the recovery items.","Below are spaces for when you would like to display
+items above the recovery items.","Below are spaces for when you would like to display
+items above the recovery items."
+,,,-----Recovery Items,-----Recovery Items,-----Recovery Items
+,,,Potion,Potion,Potion
+,,,Restores HP by 500 points.,Restores HP by 500 points.,Restores HP by 500 points.
+,,,Super Potion,Super Potion,Super Potion
+,,,Restores HP by 1500 points.,Restores HP by 1500 points.,Restores HP by 1500 points.
+,,,Full Potion,Full Potion,Full Potion
+,,,Completely restores HP.,Completely restores HP.,Completely restores HP.
+,,,Magic Water,Magic Water,Magic Water
+,,,Restores MP by 300 points.,Restores MP by 300 points.,Restores MP by 300 points.
+,,,Stimulant,Stimulant,Stimulant
+,,,Raises the subject from the dead. (Restores HP by half.),Raises the subject from the dead. (Restores HP by half.),Raises the subject from the dead. (Restores HP by half.)
+,,,Dispel Herb,Dispel Herb,Dispel Herb
+,,,"Removes all status ailments.
+Cannot revive a someone from being dead.","Removes all status ailments.
+Cannot revive a someone from being dead.","Removes all status ailments.
+Cannot revive a someone from being dead."
+,,,Antidote,Antidote,Antidote
+,,,Cures Poison or Paralysis states.,Cures Poison or Paralysis states.,Cures Poison or Paralysis states.
+,,,Miracle Drop,Miracle Drop,Miracle Drop
+,,,Restores HP and MP by half.,Restores HP and MP by half.,Restores HP and MP by half.
+,,,Elixir,Elixir,Elixir
+,,,Completely restores HP and MP.,Completely restores HP and MP.,Completely restores HP and MP.
+,,,-----Specialty Items,-----Specialty Items,-----Specialty Items
+,,,Encounter Decreaser,Encounter Decreaser,Encounter Decreaser
+,,,"Halves the number of enemies you will encounter
+for a while.","Halves the number of enemies you will encounter
+for a while.","Halves the number of enemies you will encounter
+for a while."
+,,,Drop Increaser,Drop Increaser,Drop Increaser
+,,,-----Enhancement Items,-----Enhancement Items,-----Enhancement Items
+,,,HP Increase,HP Increase,HP Increase
+,,,Increases max HP by 50 points.,Increases max HP by 50 points.,Increases max HP by 50 points.
+,,,MP Increase,MP Increase,MP Increase
+,,,Increases max MP by 10 points.,Increases max MP by 10 points.,Increases max MP by 10 points.
+,,,Attack Increase,Attack Increase,Attack Increase
+,,,Increases Attack by 3 points.,Increases Attack by 3 points.,Increases Attack by 3 points.
+,,,Defense Increase,Defense Increase,Defense Increase
+,,,Increases Defense by 3 points.,Increases Defense by 3 points.,Increases Defense by 3 points.
+,,,Magic Increase,Magic Increase,Magic Increase
+,,,Increases M.Attack by 3 points.,Increases M.Attack by 3 points.,Increases M.Attack by 3 points.
+,,,Resistance Increase,Resistance Increase,Resistance Increase
+,,,Increases M.Defense by 3 points.,Increases M.Defense by 3 points.,Increases M.Defense by 3 points.
+,,,Agility Increase,Agility Increase,Agility Increase
+,,,Increases Agility by 3 points.,Increases Agility by 3 points.,Increases Agility by 3 points.
+,,,Luck Increase,Luck Increase,Luck Increase
+,,,Increases Luck by 3 points.,Increases Luck by 3 points.,Increases Luck by 3 points.
+,,,"
+[Weapons]
+","
+[Weapons]
+","
+[Weapons]
+"
+,,,Short Sword,Short Sword,Short Sword
+,,,[Sword] A light and easy-to-wield short-bladed sword.,[Sword] A light and easy-to-wield short-bladed sword.,[Sword] A light and easy-to-wield short-bladed sword.
+,,,Long Sword,Long Sword,Long Sword
+,,,[Sword] A long battle sword boasting a sharp cut.,[Sword] A long battle sword boasting a sharp cut.,[Sword] A long battle sword boasting a sharp cut.
+,,,Falchion,Falchion,Falchion
+,,,[Sword] A wide sword with a curved blade.,[Sword] A wide sword with a curved blade.,[Sword] A wide sword with a curved blade.
+,,,Mithril Sword,Mithril Sword,Mithril Sword
+,,,[Sword] A long sword forged with mithril.,[Sword] A long sword forged with mithril.,[Sword] A long sword forged with mithril.
+,,,Dragon Blade,Dragon Blade,Dragon Blade
+,,,[Sword] A sword forged from the fangs of a dragon.,[Sword] A sword forged from the fangs of a dragon.,[Sword] A sword forged from the fangs of a dragon.
+,,,Wooden Staff,Wooden Staff,Wooden Staff
+,,,[Staff] An inexpensive and widely-used staff.,[Staff] An inexpensive and widely-used staff.,[Staff] An inexpensive and widely-used staff.
+,,,Magic Wand,Magic Wand,Magic Wand
+,,,"[Staff] A wand that slightly increases its wielder’s
+magical powers.","[Staff] A wand that slightly increases its wielder’s
+magical powers.","[Staff] A wand that slightly increases its wielder’s
+magical powers."
+,,,Force Wand,Force Wand,Force Wand
+,,,"[Staff] A silver wand that increases its wielder’s
+magical powers.","[Staff] A silver wand that increases its wielder’s
+magical powers.","[Staff] A silver wand that increases its wielder’s
+magical powers."
+,,,Mithril Rod,Mithril Rod,Mithril Rod
+,,,"[Staff] A mithril rod that increases its wielder’s
+magical powers.","[Staff] A mithril rod that increases its wielder’s
+magical powers.","[Staff] A mithril rod that increases its wielder’s
+magical powers."
+,,,Dragon Staff,Dragon Staff,Dragon Staff
+,,,"[Staff] A dragon staff that increases its wielder’s
+magical powers.","[Staff] A dragon staff that increases its wielder’s
+magical powers.","[Staff] A dragon staff that increases its wielder’s
+magical powers."
+,,,Stone Flail,Stone Flail,Stone Flail
+,,,"[Flail] A flail with a stone head attached to its
+handle with a chain.","[Flail] A flail with a stone head attached to its
+handle with a chain.","[Flail] A flail with a stone head attached to its
+handle with a chain."
+,,,Bronze Flail,Bronze Flail,Bronze Flail
+,,,"[Flail] A flail with a bronze head attached to its
+handle with a chain.","[Flail] A flail with a bronze head attached to its
+handle with a chain.","[Flail] A flail with a bronze head attached to its
+handle with a chain."
+,,,Morning Star,Morning Star,Morning Star
+,,,[Flail] A flail that has been strengthened with steel.,[Flail] A flail that has been strengthened with steel.,[Flail] A flail that has been strengthened with steel.
+,,,Mithril Flail,Mithril Flail,Mithril Flail
+,,,[Flail] A flail that has been strengthened with mithril.,[Flail] A flail that has been strengthened with mithril.,[Flail] A flail that has been strengthened with mithril.
+,,,Dragon Flail,Dragon Flail,Dragon Flail
+,,,[Flail] A flail that has been strengthened using fangs of a dragon.,[Flail] A flail that has been strengthened using fangs of a dragon.,[Flail] A flail that has been strengthened using fangs of a dragon.
+,,,Hand Axe,Hand Axe,Hand Axe
+,,,[Axe] A small axe used for logging trees.,[Axe] A small axe used for logging trees.,[Axe] A small axe used for logging trees.
+,,,Battle Axe,Battle Axe,Battle Axe
+,,,[Axe] A double-edged axe made for battle.,[Axe] A double-edged axe made for battle.,[Axe] A double-edged axe made for battle.
+,,,Bardiche,Bardiche,Bardiche
+,,,[Axe] A battle axe with a crescent-shaped blade.,[Axe] A battle axe with a crescent-shaped blade.,[Axe] A battle axe with a crescent-shaped blade.
+,,,Mithril Axe,Mithril Axe,Mithril Axe
+,,,[Axe] A battle axe forged with mithril.,[Axe] A battle axe forged with mithril.,[Axe] A battle axe forged with mithril.
+,,,Dragon Axe,Dragon Axe,Dragon Axe
+,,,[Axe] A battle axe forged from the fangs of a dragon.,[Axe] A battle axe forged from the fangs of a dragon.,[Axe] A battle axe forged from the fangs of a dragon.
+,,,Short Spear,Short Spear,Short Spear
+,,,[Spear] A short spear specialized for thrusting.,[Spear] A short spear specialized for thrusting.,[Spear] A short spear specialized for thrusting.
+,,,Long Spear,Long Spear,Long Spear
+,,,[Spear] A spear with the longest handle possible.,[Spear] A spear with the longest handle possible.,[Spear] A spear with the longest handle possible.
+,,,Halberd,Halberd,Halberd
+,,,[Spear] A spear with an axe-head at its tip.,[Spear] A spear with an axe-head at its tip.,[Spear] A spear with an axe-head at its tip.
+,,,Mithril Spear,Mithril Spear,Mithril Spear
+,,,[Spear] A spear forged with mithril.,[Spear] A spear forged with mithril.,[Spear] A spear forged with mithril.
+,,,Dragon Spear,Dragon Spear,Dragon Spear
+,,,[Spear] A spear forged from the fangs of a dragon.,[Spear] A spear forged from the fangs of a dragon.,[Spear] A spear forged from the fangs of a dragon.
+,,,Cestus,Cestus,Cestus
+,,,"[Glove] A battle glove with spikes attached to its
+knuckles.","[Glove] A battle glove with spikes attached to its
+knuckles.","[Glove] A battle glove with spikes attached to its
+knuckles."
+,,,Bagh Naka,Bagh Naka,Bagh Naka
+,,,[Claw] A combat weapon with 4 short claws attached.,[Claw] A combat weapon with 4 short claws attached.,[Claw] A combat weapon with 4 short claws attached.
+,,,Iron Claw,Iron Claw,Iron Claw
+,,,[Claw] A combat weapon with iron talons attached.,[Claw] A combat weapon with iron talons attached.,[Claw] A combat weapon with iron talons attached.
+,,,Mithril Claw,Mithril Claw,Mithril Claw
+,,,[Claw] A combat weapon with mithril talons attached.,[Claw] A combat weapon with mithril talons attached.,[Claw] A combat weapon with mithril talons attached.
+,,,Dragon Claw,Dragon Claw,Dragon Claw
+,,,[Claw] A combat weapon with dragon talons attached.,[Claw] A combat weapon with dragon talons attached.,[Claw] A combat weapon with dragon talons attached.
+,,,Short Bow,Short Bow,Short Bow
+,,,[Bow] A short bow made for hunting.,[Bow] A short bow made for hunting.,[Bow] A short bow made for hunting.
+,,,Long Bow,Long Bow,Long Bow
+,,,[Bow] A long bow for battle with superior power.,[Bow] A long bow for battle with superior power.,[Bow] A long bow for battle with superior power.
+,,,Crossbow,Crossbow,Crossbow
+,,,"[Bow] A crossbow that shoots arrows with powerful
+springs.","[Bow] A crossbow that shoots arrows with powerful
+springs.","[Bow] A crossbow that shoots arrows with powerful
+springs."
+,,,Mithril Bow,Mithril Bow,Mithril Bow
+,,,"[Bow] A crossbow that shoots mithril arrows with
+powerful springs.","[Bow] A crossbow that shoots mithril arrows with
+powerful springs.","[Bow] A crossbow that shoots mithril arrows with
+powerful springs."
+,,,Dragon Bow,Dragon Bow,Dragon Bow
+,,,"[Bow] A long bow for battle made with dragon’s
+whiskers.","[Bow] A long bow for battle made with dragon’s
+whiskers.","[Bow] A long bow for battle made with dragon’s
+whiskers."
+,,,Knife,Knife,Knife
+,,,[Dagger] A knife used for day-to-day tasks.,[Dagger] A knife used for day-to-day tasks.,[Dagger] A knife used for day-to-day tasks.
+,,,Daggar,Daggar,Daggar
+,,,[Dagger] A short blade used in close combat.,[Dagger] A short blade used in close combat.,[Dagger] A short blade used in close combat.
+,,,Machete,Machete,Machete
+,,,"[Dagger] A dagger with a thicker, sturdier blade.","[Dagger] A dagger with a thicker, sturdier blade.","[Dagger] A dagger with a thicker, sturdier blade."
+,,,Mithril Daggar,Mithril Daggar,Mithril Daggar
+,,,[Dagger] A dagger forged with mithril.,[Dagger] A dagger forged with mithril.,[Dagger] A dagger forged with mithril.
+,,,Dragon Daggar,Dragon Daggar,Dragon Daggar
+,,,[Dagger] A dagger forged from the fangs of a dragon.,[Dagger] A dagger forged from the fangs of a dragon.,[Dagger] A dagger forged from the fangs of a dragon.
+,,,"
+[Armors]
+","
+[Armors]
+","
+[Armors]
+"
+,,,-----Armors,-----Armors,-----Armors
+,,,Linen Clothing,Linen Clothing,Linen Clothing
+,,,"[General Equipment] Linen clothing with high
+breathability.","[General Equipment] Linen clothing with high
+breathability.","[General Equipment] Linen clothing with high
+breathability."
+,,,Leather Vest,Leather Vest,Leather Vest
+,,,[General Equipment] A vest made of tanned hide.,[General Equipment] A vest made of tanned hide.,[General Equipment] A vest made of tanned hide.
+,,,Adventurer’s Clothing,Adventurer’s Clothing,Adventurer’s Clothing
+,,,"[General Equipment] Durable clothing that can
+withstand rough travels.","[General Equipment] Durable clothing that can
+withstand rough travels.","[General Equipment] Durable clothing that can
+withstand rough travels."
+,,,Hard Leather,Hard Leather,Hard Leather
+,,,"[General Equipment] A vest made of leather
+hardened with glue.","[General Equipment] A vest made of leather
+hardened with glue.","[General Equipment] A vest made of leather
+hardened with glue."
+,,,Brigandine,Brigandine,Brigandine
+,,,"[General Equipment] Tanned hide clothing reinforced
+with steel plates.","[General Equipment] Tanned hide clothing reinforced
+with steel plates.","[General Equipment] Tanned hide clothing reinforced
+with steel plates."
+,,,Cloth Armor,Cloth Armor,Cloth Armor
+,,,[Light Equipment] Armor made of tough cloth.,[Light Equipment] Armor made of tough cloth.,[Light Equipment] Armor made of tough cloth.
+,,,Leather Armor,Leather Armor,Leather Armor
+,,,[Light Equipment] Armor made of layered hide.,[Light Equipment] Armor made of layered hide.,[Light Equipment] Armor made of layered hide.
+,,,Bronze Breastplate,Bronze Breastplate,Bronze Breastplate
+,,,[Light Equipment] A breastplate made of bronze.,[Light Equipment] A breastplate made of bronze.,[Light Equipment] A breastplate made of bronze.
+,,,Iron Breastplate,Iron Breastplate,Iron Breastplate
+,,,[Light Equipment] A breastplate made of iron steel.,[Light Equipment] A breastplate made of iron steel.,[Light Equipment] A breastplate made of iron steel.
+,,,Mithril Breastplate,Mithril Breastplate,Mithril Breastplate
+,,,[Light Equipment] A breastplate made of mithril.,[Light Equipment] A breastplate made of mithril.,[Light Equipment] A breastplate made of mithril.
+,,,Dragon Breastplate,Dragon Breastplate,Dragon Breastplate
+,,,[Light Equipment] A breastplate made of dragon scales.,[Light Equipment] A breastplate made of dragon scales.,[Light Equipment] A breastplate made of dragon scales.
+,,,Bronze Armor,Bronze Armor,Bronze Armor
+,,,[Heavy Equipment] Armor made of bronze.,[Heavy Equipment] Armor made of bronze.,[Heavy Equipment] Armor made of bronze.
+,,,Iron Armor,Iron Armor,Iron Armor
+,,,[Heavy Equipment] Armor made of iron steel.,[Heavy Equipment] Armor made of iron steel.,[Heavy Equipment] Armor made of iron steel.
+,,,Mithril Armor,Mithril Armor,Mithril Armor
+,,,[Heavy Equipment] Armor made of mithril.,[Heavy Equipment] Armor made of mithril.,[Heavy Equipment] Armor made of mithril.
+,,,Dragon Armor,Dragon Armor,Dragon Armor
+,,,[Heavy Equipment] Armor made of dragon scales.,[Heavy Equipment] Armor made of dragon scales.,[Heavy Equipment] Armor made of dragon scales.
+,,,Cotton Robe,Cotton Robe,Cotton Robe
+,,,"[Magic Equipment] A basic, widely prevalent robe.","[Magic Equipment] A basic, widely prevalent robe.","[Magic Equipment] A basic, widely prevalent robe."
+,,,Silk Cloak,Silk Cloak,Silk Cloak
+,,,[Magic Equipment] A high-quality cloak made of silk.,[Magic Equipment] A high-quality cloak made of silk.,[Magic Equipment] A high-quality cloak made of silk.
+,,,Tactician’s Robe,Tactician’s Robe,Tactician’s Robe
+,,,[Magic Equipment] A robe inscribed with runic letters.,[Magic Equipment] A robe inscribed with runic letters.,[Magic Equipment] A robe inscribed with runic letters.
+,,,Sage’s Robe,Sage’s Robe,Sage’s Robe
+,,,"[Magic Equipment] A robe interwoven with magical
+powers.","[Magic Equipment] A robe interwoven with magical
+powers.","[Magic Equipment] A robe interwoven with magical
+powers."
+,,,Elemental Cloak,Elemental Cloak,Elemental Cloak
+,,,"[Magic Equipment] A cloak that houses the power of
+spirits.","[Magic Equipment] A cloak that houses the power of
+spirits.","[Magic Equipment] A cloak that houses the power of
+spirits."
+,,,-----Shields,-----Shields,-----Shields
+,,,Buckler,Buckler,Buckler
+,,,[Small Shield] A small shield for deflecting attacks.,[Small Shield] A small shield for deflecting attacks.,[Small Shield] A small shield for deflecting attacks.
+,,,Round Buckler,Round Buckler,Round Buckler
+,,,"[Small Shield] A round, wooden shield reinforced
+with an iron frame.","[Small Shield] A round, wooden shield reinforced
+with an iron frame.","[Small Shield] A round, wooden shield reinforced
+with an iron frame."
+,,,Spiked Buckler,Spiked Buckler,Spiked Buckler
+,,,"[Small Shield] A round shield with attack spikes
+attached.","[Small Shield] A round shield with attack spikes
+attached.","[Small Shield] A round shield with attack spikes
+attached."
+,,,Mithril Buckler,Mithril Buckler,Mithril Buckler
+,,,[Small Shield] A small shield made of mithril.,[Small Shield] A small shield made of mithril.,[Small Shield] A small shield made of mithril.
+,,,Dragon Buckler,Dragon Buckler,Dragon Buckler
+,,,[Small Shield] A small shield made of dragon scales.,[Small Shield] A small shield made of dragon scales.,[Small Shield] A small shield made of dragon scales.
+,,,Wooden Shield,Wooden Shield,Wooden Shield
+,,,"[Large Shield] A large, average wooden shield.","[Large Shield] A large, average wooden shield.","[Large Shield] A large, average wooden shield."
+,,,Bronze Shield,Bronze Shield,Bronze Shield
+,,,[Large Shield] A large shield made of bronze plates.,[Large Shield] A large shield made of bronze plates.,[Large Shield] A large shield made of bronze plates.
+,,,Iron Shield,Iron Shield,Iron Shield
+,,,[Large Shield] A large shield made of iron steel.,[Large Shield] A large shield made of iron steel.,[Large Shield] A large shield made of iron steel.
+,,,Mithril Shield,Mithril Shield,Mithril Shield
+,,,[Large Shield] A large shield made of mithril.,[Large Shield] A large shield made of mithril.,[Large Shield] A large shield made of mithril.
+,,,Dragon Shield,Dragon Shield,Dragon Shield
+,,,[Large Shield] A large shield made of dragon scales.,[Large Shield] A large shield made of dragon scales.,[Large Shield] A large shield made of dragon scales.
+,,,Wooden Bangle,Wooden Bangle,Wooden Bangle
+,,,"[Magic Equipment] A bangle enchanted with protective
+magic.","[Magic Equipment] A bangle enchanted with protective
+magic.","[Magic Equipment] A bangle enchanted with protective
+magic."
+,,,Bronze Bangle,Bronze Bangle,Bronze Bangle
+,,,Iron Bangle,Iron Bangle,Iron Bangle
+,,,Mithril Bangle,Mithril Bangle,Mithril Bangle
+,,,Dragon Bangle,Dragon Bangle,Dragon Bangle
+,,,-----Helmets,-----Helmets,-----Helmets
+,,,Bandana,Bandana,Bandana
+,,,"[General Equipment] A cloth headband for protecting
+the forehead.","[General Equipment] A cloth headband for protecting
+the forehead.","[General Equipment] A cloth headband for protecting
+the forehead."
+,,,Leather Bandana,Leather Bandana,Leather Bandana
+,,,"[General Equipment] A leather headband for protecting
+the forehead.","[General Equipment] A leather headband for protecting
+the forehead.","[General Equipment] A leather headband for protecting
+the forehead."
+,,,Leather Hat,Leather Hat,Leather Hat
+,,,[General Equipment] A hat made of leather.,[General Equipment] A hat made of leather.,[General Equipment] A hat made of leather.
+,,,Turban,Turban,Turban
+,,,"[General Equipment] A thick cloth layered and wrapped
+around the head for protection.","[General Equipment] A thick cloth layered and wrapped
+around the head for protection.","[General Equipment] A thick cloth layered and wrapped
+around the head for protection."
+,,,Feathered Hat,Feathered Hat,Feathered Hat
+,,,"[General Equipment] A fancy hat with bird feathers
+attached.","[General Equipment] A fancy hat with bird feathers
+attached.","[General Equipment] A fancy hat with bird feathers
+attached."
+,,,Leather Cap,Leather Cap,Leather Cap
+,,,[Light Equipment] A hat made of tanned hide.,[Light Equipment] A hat made of tanned hide.,[Light Equipment] A hat made of tanned hide.
+,,,Wooden Cap,Wooden Cap,Wooden Cap
+,,,[Light Equipment] A light helmet made of wood.,[Light Equipment] A light helmet made of wood.,[Light Equipment] A light helmet made of wood.
+,,,Bronze Cap,Bronze Cap,Bronze Cap
+,,,"[Light Equipment] A light helmet reinforced with
+bronze plates.","[Light Equipment] A light helmet reinforced with
+bronze plates.","[Light Equipment] A light helmet reinforced with
+bronze plates."
+,,,Iron Cap,Iron Cap,Iron Cap
+,,,"[Light Equipment] A light helmet reinforced with
+iron plates.","[Light Equipment] A light helmet reinforced with
+iron plates.","[Light Equipment] A light helmet reinforced with
+iron plates."
+,,,Mithril Cap,Mithril Cap,Mithril Cap
+,,,"[Light Equipment] A light helmet reinforced with
+mithril.","[Light Equipment] A light helmet reinforced with
+mithril.","[Light Equipment] A light helmet reinforced with
+mithril."
+,,,Dragon Cap,Dragon Cap,Dragon Cap
+,,,"[Light Equipment] A light helmet reinforced with
+dragon scales.","[Light Equipment] A light helmet reinforced with
+dragon scales.","[Light Equipment] A light helmet reinforced with
+dragon scales."
+,,,Chainmail Coif,Chainmail Coif,Chainmail Coif
+,,,"[Heavy Equipment] A hood made with fine, woven chains.","[Heavy Equipment] A hood made with fine, woven chains.","[Heavy Equipment] A hood made with fine, woven chains."
+,,,Bronze Helm,Bronze Helm,Bronze Helm
+,,,"[Heavy Equipment] A helmet made with thick bronze
+plates.","[Heavy Equipment] A helmet made with thick bronze
+plates.","[Heavy Equipment] A helmet made with thick bronze
+plates."
+,,,Iron Helm,Iron Helm,Iron Helm
+,,,"[Heavy Equipment] A helmet made with thick iron
+plates.","[Heavy Equipment] A helmet made with thick iron
+plates.","[Heavy Equipment] A helmet made with thick iron
+plates."
+,,,Mithril Helm,Mithril Helm,Mithril Helm
+,,,[Heavy Equipment] A helmet made of mithril.,[Heavy Equipment] A helmet made of mithril.,[Heavy Equipment] A helmet made of mithril.
+,,,Dragon Helm,Dragon Helm,Dragon Helm
+,,,[Heavy Equipment] A helmet made with dragon scales.,[Heavy Equipment] A helmet made with dragon scales.,[Heavy Equipment] A helmet made with dragon scales.
+,,,Pointed Hat,Pointed Hat,Pointed Hat
+,,,"[Magic Equipment] A triangular, tanned hide hat with
+a wide brim.","[Magic Equipment] A triangular, tanned hide hat with
+a wide brim.","[Magic Equipment] A triangular, tanned hide hat with
+a wide brim."
+,,,Circlet,Circlet,Circlet
+,,,"[Magic Equipment] A simple crown enchanted with
+protective magic.","[Magic Equipment] A simple crown enchanted with
+protective magic.","[Magic Equipment] A simple crown enchanted with
+protective magic."
+,,,Silver Circlet,Silver Circlet,Silver Circlet
+,,,"[Magic Equipment] A silver crown enchanted with
+protective magic.","[Magic Equipment] A silver crown enchanted with
+protective magic.","[Magic Equipment] A silver crown enchanted with
+protective magic."
+,,,Gold Circlet,Gold Circlet,Gold Circlet
+,,,"[Magic Equipment] A pure gold crown enchanted with
+protective magic.","[Magic Equipment] A pure gold crown enchanted with
+protective magic.","[Magic Equipment] A pure gold crown enchanted with
+protective magic."
+,,,Mithril Circlet,Mithril Circlet,Mithril Circlet
+,,,"[Magic Equipment] A mithril crown enchanted with
+protective magic.","[Magic Equipment] A mithril crown enchanted with
+protective magic.","[Magic Equipment] A mithril crown enchanted with
+protective magic."
+,,,Master Circlet,Master Circlet,Master Circlet
+,,,"[Magic Equipment] A sage’s crown enchanted with
+protective magic.","[Magic Equipment] A sage’s crown enchanted with
+protective magic.","[Magic Equipment] A sage’s crown enchanted with
+protective magic."
+,,,-----Accessories,-----Accessories,-----Accessories
+,,,Guard Stone,Guard Stone,Guard Stone
+,,,[Accessory] A charm that increases Defense.,[Accessory] A charm that increases Defense.,[Accessory] A charm that increases Defense.
+,,,Guard Ring,Guard Ring,Guard Ring
+,,,[Accessory] A ring that increases Defense.,[Accessory] A ring that increases Defense.,[Accessory] A ring that increases Defense.
+,,,Power Stone,Power Stone,Power Stone
+,,,[Accessory] A charm that increases Attack.,[Accessory] A charm that increases Attack.,[Accessory] A charm that increases Attack.
+,,,Power Ring,Power Ring,Power Ring
+,,,[Accessory] A ring that increases Attack.,[Accessory] A ring that increases Attack.,[Accessory] A ring that increases Attack.
+,,,Speed Stone,Speed Stone,Speed Stone
+,,,[Accessory] A charm that increases Agility.,[Accessory] A charm that increases Agility.,[Accessory] A charm that increases Agility.
+,,,Speed Ring,Speed Ring,Speed Ring
+,,,[Accessory] A ring that increases Agility.,[Accessory] A ring that increases Agility.,[Accessory] A ring that increases Agility.
+,,,Lucky Stone,Lucky Stone,Lucky Stone
+,,,[Accessory] A charm that increases Luck.,[Accessory] A charm that increases Luck.,[Accessory] A charm that increases Luck.
+,,,Lucky Ring,Lucky Ring,Lucky Ring
+,,,[Accessory] A ring that increases Luck.,[Accessory] A ring that increases Luck.,[Accessory] A ring that increases Luck.
+,,,Magical Stone,Magical Stone,Magical Stone
+,,,[Accessory] A charm that increases M.Attack.,[Accessory] A charm that increases M.Attack.,[Accessory] A charm that increases M.Attack.
+,,,Magical Ring,Magical Ring,Magical Ring
+,,,[Accessory] A ring that increases M.Attack.,[Accessory] A ring that increases M.Attack.,[Accessory] A ring that increases M.Attack.
+,,,Shooter Stone,Shooter Stone,Shooter Stone
+,,,"[Accessory] A charm that increases the Hit Rate of
+attacks.","[Accessory] A charm that increases the Hit Rate of
+attacks.","[Accessory] A charm that increases the Hit Rate of
+attacks."
+,,,Shooter Ring,Shooter Ring,Shooter Ring
+,,,"[Accessory] A ring that increases the Hit Rate of
+attacks.","[Accessory] A ring that increases the Hit Rate of
+attacks.","[Accessory] A ring that increases the Hit Rate of
+attacks."
+,,,Master Stone,Master Stone,Master Stone
+,,,[Accessory] A charm that reduces MP Cost by 20%.,[Accessory] A charm that reduces MP Cost by 20%.,[Accessory] A charm that reduces MP Cost by 20%.
+,,,Master Ring,Master Ring,Master Ring
+,,,[Accessory] A ring that reduces MP Cost by 50%.,[Accessory] A ring that reduces MP Cost by 50%.,[Accessory] A ring that reduces MP Cost by 50%.
+,,,Poison Guard,Poison Guard,Poison Guard
+,,,"[Accessory] A ring that helps prevent Poison and
+Paralysis states.","[Accessory] A ring that helps prevent Poison and
+Paralysis states.","[Accessory] A ring that helps prevent Poison and
+Paralysis states."
+,,,Super Poison Guard,Super Poison Guard,Super Poison Guard
+,,,"[Accessory] A ring that entirely prevents Poison
+and Paralysis states.","[Accessory] A ring that entirely prevents Poison
+and Paralysis states.","[Accessory] A ring that entirely prevents Poison
+and Paralysis states."
+,,,Mental Guard,Mental Guard,Mental Guard
+,,,"[Accessory] A ring that helps prevent Sleep,
+Silence, Confusion, Charm, and Rage states.","[Accessory] A ring that helps prevent Sleep,
+Silence, Confusion, Charm, and Rage states.","[Accessory] A ring that helps prevent Sleep,
+Silence, Confusion, Charm, and Rage states."
+,,,Super Mental Guard,Super Mental Guard,Super Mental Guard
+,,,"[Accessory] A ring that entirely prevents Sleep,
+Silence, Confusion, Charm, and Rage states.","[Accessory] A ring that entirely prevents Sleep,
+Silence, Confusion, Charm, and Rage states.","[Accessory] A ring that entirely prevents Sleep,
+Silence, Confusion, Charm, and Rage states."
+,,,Enemy Radar,Enemy Radar,Enemy Radar
+,,,"[Accessory] Raises the chance of performing a
+preemptive attack.","[Accessory] Raises the chance of performing a
+preemptive attack.","[Accessory] Raises the chance of performing a
+preemptive attack."
+,,,Warning Bell,Warning Bell,Warning Bell
+,,,[Accessory] Prevents surprise attacks.,[Accessory] Prevents surprise attacks.,[Accessory] Prevents surprise attacks.
+,,,Stocker,Stocker,Stocker
+,,,"[Accessory] Allows you to carryover TP over into the
+next battle.","[Accessory] Allows you to carryover TP over into the
+next battle.","[Accessory] Allows you to carryover TP over into the
+next battle."
+,,,Ring of Guts,Ring of Guts,Ring of Guts
+,,,[Accessory] Increases TP Charge Rate.,[Accessory] Increases TP Charge Rate.,[Accessory] Increases TP Charge Rate.
+,,,MP Keeper,MP Keeper,MP Keeper
+,,,[Accessory] Decreases MP Cost Rate.,[Accessory] Decreases MP Cost Rate.,[Accessory] Decreases MP Cost Rate.
+,,,Elemental Guard,Elemental Guard,Elemental Guard
+,,,"[Accessory] Damage inflicted by Fire, Water, Wind,
+and Earth attacks is halved.","[Accessory] Damage inflicted by Fire, Water, Wind,
+and Earth attacks is halved.","[Accessory] Damage inflicted by Fire, Water, Wind,
+and Earth attacks is halved."
+,,,Spectacles,Spectacles,Spectacles
+,,,[Accessory] Sharpens eyesight and increases hit rate.,[Accessory] Sharpens eyesight and increases hit rate.,[Accessory] Sharpens eyesight and increases hit rate.
+,,,"
+[Enemies]
+","
+[Enemies]
+","
+[Enemies]
+"
+,,,Goblin,Goblin,Goblin
+,,,Gnome,Gnome,Gnome
+,,,Crow,Crow,Crow
+,,,Treant,Treant,Treant
+,,,Hi_monster,Hi_monster,Hi_monster
+,,,"
+[States]
+","
+[States]
+","
+[States]
+"
+,,,Dead,Dead,Dead
+,,,%1 has fallen!,%1 has fallen!,%1 has fallen!
+,,,%1 is slain!,%1 is slain!,%1 is slain!
+,,,%1 revives!,%1 revives!,%1 revives!
+,,,Immortal,Immortal,Immortal
+,,,%1 is poisoned!,%1 is poisoned!,%1 is poisoned!
+,,,%1 is no longer poisoned!,%1 is no longer poisoned!,%1 is no longer poisoned!
+,,,%1 is blinded!,%1 is blinded!,%1 is blinded!
+,,,%1 is no longer blinded!,%1 is no longer blinded!,%1 is no longer blinded!
+,,,%1 is silenced!,%1 is silenced!,%1 is silenced!
+,,,%1 is no longer silenced!,%1 is no longer silenced!,%1 is no longer silenced!
+,,,Rage,Rage,Rage
+,,,%1 is enraged!,%1 is enraged!,%1 is enraged!
+,,,%1 is no longer enraged!,%1 is no longer enraged!,%1 is no longer enraged!
+,,,Confusion,Confusion,Confusion
+,,,%1 is confused!,%1 is confused!,%1 is confused!
+,,,%1 is no longer confused!,%1 is no longer confused!,%1 is no longer confused!
+,,,Charm,Charm,Charm
+,,,%1 is charmed!,%1 is charmed!,%1 is charmed!
+,,,%1 is no longer charmed!,%1 is no longer charmed!,%1 is no longer charmed!
+,,,%1 falls asleep!,%1 falls asleep!,%1 falls asleep!
+,,,%1 is sleeping.,%1 is sleeping.,%1 is sleeping.
+,,,%1 wakes up!,%1 wakes up!,%1 wakes up!
+,,,Paralysis,Paralysis,Paralysis
+,,,%1 is paralyzed and can’t move!,%1 is paralyzed and can’t move!,%1 is paralyzed and can’t move!
+,,,%1 is paralyzed!,%1 is paralyzed!,%1 is paralyzed!
+,,,%1 is no longer paralyzed!,%1 is no longer paralyzed!,%1 is no longer paralyzed!
+,,,Stun,Stun,Stun
+,,,%1 lost balance!,%1 lost balance!,%1 lost balance!
+,,,%1 is still off-balance...,%1 is still off-balance...,%1 is still off-balance...
+,,,%1 has regained balance!,%1 has regained balance!,%1 has regained balance!
+,,,HP Regeneration,HP Regeneration,HP Regeneration
+,,,MP Regeneration,MP Regeneration,MP Regeneration
+,,,TP Regeneration,TP Regeneration,TP Regeneration
+,,,Magic Reflection,Magic Reflection,Magic Reflection
+,,,Provoke,Provoke,Provoke
+,,,%1 became easier to hit!,%1 became easier to hit!,%1 became easier to hit!
+,,,%1 became harder to hit!,%1 became harder to hit!,%1 became harder to hit!
+,,,Counter Attack,Counter Attack,Counter Attack
+,,,Status Ailment Block,Status Ailment Block,Status Ailment Block
+,,,Reduce MP Cost,Reduce MP Cost,Reduce MP Cost
+,,,Fire Force,Fire Force,Fire Force
+,,,%1 is now enveloped in an aura of fire.,%1 is now enveloped in an aura of fire.,%1 is now enveloped in an aura of fire.
+,,,Ice Force,Ice Force,Ice Force
+,,,%1 is now enveloped in an icy aura.,%1 is now enveloped in an icy aura.,%1 is now enveloped in an icy aura.
+,,,Thunder Force,Thunder Force,Thunder Force
+,,,%1 is now enveloped in a thunderous aura.,%1 is now enveloped in a thunderous aura.,%1 is now enveloped in a thunderous aura.
+,,,Half Encounters,Half Encounters,Half Encounters
+,,,Double Money/Items,Double Money/Items,Double Money/Items
+,,,"
+[Types]
+","
+[Types]
+","
+[Types]
+"
+,,,Dagger,Dagger,Dagger
+,,,Sword,Sword,Sword
+,,,Flail,Flail,Flail
+,,,Axe,Axe,Axe
+,,,Whip,Whip,Whip
+,,,Staff,Staff,Staff
+,,,Bow,Bow,Bow
+,,,Gun,Gun,Gun
+,,,Claw,Claw,Claw
+,,,Glove,Glove,Glove
+,,,Spear,Spear,Spear
+,,,General Armor,General Armor,General Armor
+,,,Magic Armor,Magic Armor,Magic Armor
+,,,Light Armor,Light Armor,Light Armor
+,,,Heavy Armor,Heavy Armor,Heavy Armor
+,,,Small Shield,Small Shield,Small Shield
+,,,Large Shield,Large Shield,Large Shield
+,,,Weapon,Weapon,Weapon
+,,,Shield,Shield,Shield
+,,,Head,Head,Head
+,,,Body,Body,Body
+,,,Accessory,Accessory,Accessory
+,,,Magic,Magic,Magic
+,,,Special,Special,Special
+,,,"
+[Terms]
+","
+[Terms]
+","
+[Terms]
+"
+,,,Level,Level,Level
+,,,Lv,Lv,Lv
+,,,HP,HP,HP
+,,,MP,MP,MP
+,,,TP,TP,TP
+,,,EXP,EXP,EXP
+,,,Fight,Fight,Fight
+,,,Item,Item,Item
+,,,Skill,Skill,Skill
+,,,Equip,Equip,Equip
+,,,Status,Status,Status
+,,,Formation,Formation,Formation
+,,,Save,Save,Save
+,,,Game End,Game End,Game End
+,,,Options,Options,Options
+,,,Armor,Armor,Armor
+,,,Key Item,Key Item,Key Item
+,,,Optimize,Optimize,Optimize
+,,,Clear,Clear,Clear
+,,,New Game,New Game,New Game
+,,,Continue,Continue,Continue
+,,,To Title,To Title,To Title
+,,,Cancel,Cancel,Cancel
+,,,Buy,Buy,Buy
+,,,Sell,Sell,Sell
+,,,Max HP,Max HP,Max HP
+,,,Max MP,Max MP,Max MP
+,,,Defense,Defense,Defense
+,,,M.Attack,M.Attack,M.Attack
+,,,M.Defense,M.Defense,M.Defense
+,,,Agility,Agility,Agility
+,,,Luck,Luck,Luck
+,,,Hit,Hit,Hit
+,,,Evasion,Evasion,Evasion
+,,,"
+[System Messages]
+","
+[System Messages]
+","
+[System Messages]
+"
+,,,Always Dash,Always Dash,Always Dash
+,,,Command Remember,Command Remember,Command Remember
+,,,Touch UI,Touch UI,Touch UI
+,,,BGM Volume,BGM Volume,BGM Volume
+,,,BGS Volume,BGS Volume,BGS Volume
+,,,ME Volume,ME Volume,ME Volume
+,,,SE Volume,SE Volume,SE Volume
+,,,Possession,Possession,Possession
+,,,Current %1,Current %1,Current %1
+,,,To Next %1,To Next %1,To Next %1
+,,,Which file would you like to save to?,Which file would you like to save to?,Which file would you like to save to?
+,,,Which file would you like to load?,Which file would you like to load?,Which file would you like to load?
+,,,File,File,File
+,,,Autosave,Autosave,Autosave
+,,,%1’s Party,%1’s Party,%1’s Party
+,,,%1 emerged!,%1 emerged!,%1 emerged!
+,,,%1 got the upper hand!,%1 got the upper hand!,%1 got the upper hand!
+,,,%1 was surprised!,%1 was surprised!,%1 was surprised!
+,,,%1 has started to escape!,%1 has started to escape!,%1 has started to escape!
+,,,"However, it was unable to escape!","However, it was unable to escape!","However, it was unable to escape!"
+,,,%1 was victorious!,%1 was victorious!,%1 was victorious!
+,,,%1 was defeated.,%1 was defeated.,%1 was defeated.
+,,,%1 %2 received!,%1 %2 received!,%1 %2 received!
+,,,%1\G found!,%1\G found!,%1\G found!
+,,,%1 found!,%1 found!,%1 found!
+,,,%1 is now %2 %3!,%1 is now %2 %3!,%1 is now %2 %3!
+,,,%1 learned!,%1 learned!,%1 learned!
+,,,An excellent hit!!,An excellent hit!!,An excellent hit!!
+,,,A painful blow!!,A painful blow!!,A painful blow!!
+,,,%1 took %2 damage!,%1 took %2 damage!,%1 took %2 damage!
+,,,%1 recovered %2 %3!,%1 recovered %2 %3!,%1 recovered %2 %3!
+,,,%1 gained %2 %3!,%1 gained %2 %3!,%1 gained %2 %3!
+,,,%1 lost %2 %3!,%1 lost %2 %3!,%1 lost %2 %3!
+,,,%1 was drained of %2 %3!,%1 was drained of %2 %3!,%1 was drained of %2 %3!
+,,,%1 took no damage!,%1 took no damage!,%1 took no damage!
+,,,Miss! %1 took no damage!,Miss! %1 took no damage!,Miss! %1 took no damage!
+,,,%1 evaded the attack!,%1 evaded the attack!,%1 evaded the attack!
+,,,%1 nullified the magic!,%1 nullified the magic!,%1 nullified the magic!
+,,,%1 reflected the magic!,%1 reflected the magic!,%1 reflected the magic!
+,,,%1 made a counterattack!,%1 made a counterattack!,%1 made a counterattack!
+,,,%1 protected %2!,%1 protected %2!,%1 protected %2!
+,,,%1’s %2 went up!,%1’s %2 went up!,%1’s %2 went up!
+,,,%1’s %2 went down!,%1’s %2 went down!,%1’s %2 went down!
+,,,%1’s %2 returned to normal!,%1’s %2 returned to normal!,%1’s %2 returned to normal!
+,,,There was no effect on %1!,There was no effect on %1!,There was no effect on %1!
+,,,"
+[TROOPS]
+","
+[TROOPS]
+","
+[TROOPS]
+"
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]Where... am I?","\portrait[Aiden]\pscale[1]\poff[60,20]Where... am I?","\portrait[Aiden]\pscale[1]\poff[60,20]Où suis-je?"
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]It's so empty here...","\portrait[Aiden]\pscale[1]\poff[60,20]It's so empty here...","\portrait[Aiden]\pscale[1]\poff[60,20]It's so empty here..."
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]Am I dead? Or is this a dream?
+I can't feel anything...","\portrait[Aiden]\pscale[1]\poff[60,20]Am I dead? Or is this a dream?
+I can't feel anything...","\portrait[Aiden]\pscale[1]\poff[60,20]Am I dead? Or is this a dream?
+I can't feel anything..."
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]What was that? It felt so familiar...","\portrait[Aiden]\pscale[1]\poff[60,20]What was that? It felt so familiar...","\portrait[Aiden]\pscale[1]\poff[60,20]What was that? It felt so familiar..."
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]Urgh... My head... It hurts...","\portrait[Aiden]\pscale[1]\poff[60,20]Urgh... My head... It hurts...","\portrait[Aiden]\pscale[1]\poff[60,20]Urgh... My head... It hurts..."
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[60,20](a strange voice)
+Oh, but by 'myself,' I mean...\| well, isn't that 
+something for you to figure out? Haha!",,
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20](What does he mean?)","\portrait[Aiden]\pscale[1]\poff[60,20](What does he mean?)","\portrait[Aiden]\pscale[1]\poff[60,20](What does he mean?)"
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]The Oblivium?","\portrait[Aiden]\pscale[1]\poff[60,20]The Oblivium?","\portrait[Aiden]\pscale[1]\poff[60,20]The Oblivium?"
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]...","\portrait[Aiden]\pscale[1]\poff[60,20]...","\portrait[Aiden]\pscale[1]\poff[60,20]..."
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20](Who am I...? Why can't I remember anything?)","\portrait[Aiden]\pscale[1]\poff[60,20](Who am I...? Why can't I remember anything?)","\portrait[Aiden]\pscale[1]\poff[60,20](Who am I...? Why can't I remember anything?)"
+,,???,"\portrait[Aiden]\pscale[1]\poff[60,20]Aiden... My name is Aiden, I think...","\portrait[Aiden]\pscale[1]\poff[60,20]Aiden... My name is Aiden, I think...","\portrait[Aiden]\pscale[1]\poff[60,20]Aiden... My name is Aiden, I think..."
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[60,20](a strange voice) 
+Haha! The kid's funny, trying to remember!",,
+,,The Host,"\portrait[The-Host2]\pscale[1]\poff[60,20](a strange voice)
+Haha!",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"You fixed this bridge alone? Impressive! 
+We’re almost there, I can feel it.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,He will never succeed.,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Grandma,${Grandma.text8},${Grandma.text8},${Grandma.text8}
+,,LittleAiden,${littleaiden.text4},${littleaiden.text4},${littleaiden.text4}
+,,Grandma,${Grandma.text9},${Grandma.text9},${Grandma.text9}
+,,LittleAiden,${littleaiden.text5},${littleaiden.text5},${littleaiden.text5}
+,,LittleAiden,${littleaiden.text52},${littleaiden.text52},${littleaiden.text52}
+,,Grandma,${Grandma.text10},${Grandma.text10},${Grandma.text10}
+,,LittleAiden,${littleaiden.text6},${littleaiden.text6},${littleaiden.text6}
+,,Grandma,${Grandma.text11},${Grandma.text11},${Grandma.text11}
+,,LittleAiden,${littleaiden.text7},${littleaiden.text7},${littleaiden.text7}
+,,Grandma,${Grandma.text12},${Grandma.text12},${Grandma.text12}
+,,LittleAiden,${littleaiden.text8},${littleaiden.text8},${littleaiden.text8}
+,,LittleAiden,${littleaiden.text9},${littleaiden.text9},${littleaiden.text9}
+,,Grandma,${Grandma.text13},${Grandma.text13},${Grandma.text13}
+,,LittleAiden,${littleaiden.text10},${littleaiden.text10},${littleaiden.text10}
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,"Ugh, the bridge seems to be broken. What should I do?\|
+*I have a feeling this could affect my mind 
+or my memories.*",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,"Ugh, the bridge seems to be broken.
+What should I do?\|
+*I have a feeling this could affect
+my mind or my memories.*",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]This feels off... I guess I should start over.",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Ah, so you’re the newcomer... Aiden.
+You’re later than I expected. I’ve been 
+waiting for you for many years.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]Waiting for me? But I don’t even know you...
+And where am I, anyway? This house just 
+appeared out of nowhere!",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]You’re in the Oblivium, a place that exists 
+between what was and what is yet to be.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]I don’t understand...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Are you alright, child? I’ve been calling you,
+but you didn’t respond.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]You... I’ve seen you before... Ahh, my head...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Migraines? Let me take a look.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Music... It’s curious, isn’t it? It can help 
+find balance, align body and mind.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]You seem calmer now. Tell me, Aiden, 
+can you recall what day it is?",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]I... I don’t know...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]What do you remember?",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]Nothing...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]I see... Near-total amnesia. Perhaps it’s
+not such a bad thing...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]The Oblivium is a strange place...
+And a generous one. It will allow you to 
+reclaim your memories, one by one.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Here, everything changes based on your feelings.
+But be careful. What you recover isn’t just an
+image of the past, it’s a reflection of yourself.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]A reflection?",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Yes, and sometimes that reflection can
+be hard to face. Your mind, be it light or
+shadow, will guide you...or lead you astray.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Here, take this journal. It will help
+you track your state of mind and the memories
+you recover.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]One day, you’ll have to make a final 
+choice. But for now, it’s too soon to decide...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Keep the journal close. One day, 
+it will reveal what you seek.",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Welcome to The Oblivium. As its ruler, I formally 
+greet you.",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Now, more importantly... What do you think 
+of the decor? I did it myself!",,
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)
+Oh, but by 'myself,' I mean...\| well, isn't that 
+something for you to figure out? Haha!",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Haha! You'll understand in time. For now, shouldn't 
+you be asking something more important?",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Who are you?","\portrait[TheHost]\pscale[1]\poff[60,20]Who are you?","\portrait[TheHost]\pscale[1]\poff[60,20]Who are you?"
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice) 
+Haha! The kid's funny, trying to remember!",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Let me give you a little advice, Aiden. 
+*Here, nothing moves... unless you truly try.*",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Help the people in the village. Maybe 
+your memories will return.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]The village? But there's nothing here...","\portrait[Aiden]\pscale[1]\poff[60,20]The village? But there's nothing here...","\portrait[Aiden]\pscale[1]\poff[60,20]The village? But there's nothing here..."
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)
+Haha!",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Oh, one more thing. *Be careful with your emotions. 
+Things might get harder otherwise.*",,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Now, go see the healer!","\portrait[TheHost]\pscale[1]\poff[60,20]Now, go see the healer!","\portrait[TheHost]\pscale[1]\poff[60,20]Now, go see the healer!"
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20] You startled me!\| I was lost in thought...",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]I tried to find my way to my son's village,
+but the path keeps hiding from me.",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]I can see in your eyes the same look as 
+my son...\| Always searching, yet never truly 
+finding.",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]Perhaps if you help me find my way,
+it might guide you as well.",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]But I don’t know where to begin... Maybe
+there’s something in my house or outside
+that could help.",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]This fear...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]This sadness...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]This anger...\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]Now I remember... the direction to the village! 
+You must cross a long forest to reach the bridge!",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]Maybe there’s something in my house —or 
+outside—that could help finding the path
+to the village.",,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]...",,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Grandma,${grandma.text1},${grandma.text1},${grandma.text1}
+,,Grandma,${grandma.text2},${grandma.text2},${grandma.text2}
+,,Little Aiden,${child.text1},${child.text1},${child.text1}
+,,Grandma,${grandma.text3},${grandma.text3},${grandma.text3}
+,,Little Aiden,${littleaiden.text1},${littleaiden.text1},${littleaiden.text1}
+,,Grandma,${grandma.text4},${grandma.text4},${grandma.text4}
+,,Grandma,${grandma.text5},${grandma.text5},${grandma.text5}
+,,Little Aiden,${littleaiden.text2},${littleaiden.text2},${littleaiden.text2}
+,,Grandma,${grandma.text6},${grandma.text6},${grandma.text6}
+,,Grandma,${grandma.text7},${grandma.text7},${grandma.text7}
+,,Little Aiden,${littleaiden.text3},${littleaiden.text3},${littleaiden.text3}
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,\pop[3] ${Doubts7.text},\pop[3] ${Doubts7.text},\pop[3] ${Doubts7.text}
+,,,\pop[5] ${Doubts8.text},\pop[5] ${Doubts8.text},\pop[5] ${Doubts8.text}
+,,,\pop[7] ${Doubts9.text},\pop[7] ${Doubts9.text},\pop[7] ${Doubts9.text}
+,,,\pop[8] ${Doubts10.text},\pop[8] ${Doubts10.text},\pop[8] ${Doubts10.text}
+,,,${Aiden.text12},${Aiden.text12},${Aiden.text12}
+,,,${Choice.text1},${Choice.text1},${Choice.text1}
+,,,${Choice.text2},${Choice.text2},${Choice.text2}
+,,,${Aiden.text13},${Aiden.text13},${Aiden.text13}
+,,,${Elderly.text12},${Elderly.text12},${Elderly.text12}
+,,Aiden,${Aiden.text14},${Aiden.text14},${Aiden.text14}
+,,,${Information.text10},${Information.text10},${Information.text10}
+,,,${Elderly.text9},${Elderly.text9},${Elderly.text9}
+,,,${Elderly.text10},${Elderly.text10},${Elderly.text10}
+,,,${Elderly.text11},${Elderly.text11},${Elderly.text11}
+,,Aiden,${Aiden.text15},${Aiden.text15},${Aiden.text15}
+,,,${Doubts1.text},${Doubts1.text},${Doubts1.text}
+,,,${Doubts2.text},${Doubts2.text},${Doubts2.text}
+,,,${Doubts3.text},${Doubts3.text},${Doubts3.text}
+,,,${Doubts4.text},${Doubts4.text},${Doubts4.text}
+,,,${Doubts42.text},${Doubts42.text},${Doubts42.text}
+,,,${Doubts5.text},${Doubts5.text},${Doubts5.text}
+,,,${Doubts6.text},${Doubts6.text},${Doubts6.text}
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,${ElderlyMan.text8},${ElderlyMan.text8},${ElderlyMan.text8}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"This fear...\\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]I missed a note... I guess I should start over.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]But I don’t know where to begin... Maybe
+there’s something in my house—or outside—
+that could help.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Are you alright, child?
+I’ve been calling you,\nbut you didn’t respond.",,
+,,Aiden,"\portrait[Aiden]\pscale[1]\poff[60,20]You... I’ve seen you before...Ahh, my head...",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Music... It’s curious, isn’t it?
+It can help find balance, align body and mind.",,
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nHaha!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nHaha!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nHaha!"
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)
+Oh, but by 'myself,' I mean...\|
+well, isn't that something for you to figure out? Haha!",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,${Panel.text1},${Panel.text1},${Panel.text1}
+,,,${Panel.text2},${Panel.text2},${Panel.text2}
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Now, more importantly... What do you think of the
+decor? I did it myself!",,
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)
+Oh, but by 'myself,' I mean...well, isn't that
+something for you to figure out? Haha!",,
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice) Haha! The kid's funny, trying to remember!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice) Haha! The kid's funny, trying to remember!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice) Haha! The kid's funny, trying to remember!"
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Welcome to The Oblivium. As its ruler, I formally greet you.","\portrait[TheHost]\pscale[1]\poff[60,20]Welcome to The Oblivium. As its ruler, I formally greet you.","\portrait[TheHost]\pscale[1]\poff[60,20]Welcome to The Oblivium. As its ruler, I formally greet you."
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Now, more importantly... What do you think of the decor? I did it myself!","\portrait[TheHost]\pscale[1]\poff[60,20]Now, more importantly... What do you think of the decor? I did it myself!","\portrait[TheHost]\pscale[1]\poff[60,20]Now, more importantly... What do you think of the decor? I did it myself!"
+,,The Host,"\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nOh, but by 'myself,' I mean...\nwell, isn't that something for\nyou to figure out? Haha!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nOh, but by 'myself,' I mean...\nwell, isn't that something for\nyou to figure out? Haha!","\portrait[TheHost2]\pscale[1]\poff[60,20](a strange voice)\nOh, but by 'myself,' I mean...\nwell, isn't that something for\nyou to figure out? Haha!"
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Haha! You'll understand in time. For now, shouldn't you be asking something more important?","\portrait[TheHost]\pscale[1]\poff[60,20]Haha! You'll understand in time. For now, shouldn't you be asking something more important?","\portrait[TheHost]\pscale[1]\poff[60,20]Haha! You'll understand in time. For now, shouldn't you be asking something more important?"
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Let me give you a little advice, Aiden. *Here, nothing moves... unless you truly try.*","\portrait[TheHost]\pscale[1]\poff[60,20]Let me give you a little advice, Aiden. *Here, nothing moves... unless you truly try.*","\portrait[TheHost]\pscale[1]\poff[60,20]Let me give you a little advice, Aiden. *Here, nothing moves... unless you truly try.*"
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Help the people in the village. Maybe your memories will return.","\portrait[TheHost]\pscale[1]\poff[60,20]Help the people in the village. Maybe your memories will return.","\portrait[TheHost]\pscale[1]\poff[60,20]Help the people in the village. Maybe your memories will return."
+,,The Host,"\portrait[TheHost]\pscale[1]\poff[60,20]Oh, one more thing. *Be careful with your emotions. Things might get harder otherwise.*","\portrait[TheHost]\pscale[1]\poff[60,20]Oh, one more thing. *Be careful with your emotions. Things might get harder otherwise.*","\portrait[TheHost]\pscale[1]\poff[60,20]Oh, one more thing. *Be careful with your emotions. Things might get harder otherwise.*"
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20] You startled me!\|I was lost in thought...",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Aiden,${Aiden.text11},${Aiden.text11},${Aiden.text11}
+,,,${Information.text1},${Information.text1},${Information.text1}
+,,,${Option1.text},${Option1.text},${Option1.text}
+,,,${Option2.text},${Option2.text},${Option2.text}
+,,,${Option3.text},${Option3.text},${Option3.text}
+,,,${Information.text7},${Information.text7},${Information.text7}
+,,Aiden,${Information.text11},${Information.text11},${Information.text11}
+,,,${Information.text3},${Information.text3},${Information.text3}
+,,,${Information.text5},${Information.text5},${Information.text5}
+,,,${Information.text6},${Information.text6},${Information.text6}
+,,,${Option4.text},${Option4.text},${Option4.text}
+,,,${Option5.text},${Option5.text},${Option5.text}
+,,,${Information.text2},${Information.text2},${Information.text2}
+,,,${Information.text4},${Information.text4},${Information.text4}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,Elderly Man,"\portrait[ElderlyMan]\pscale[1]\poff[60,20]You startled me!\|I was lost in thought...",,
+,,Elderly Man,"I can see in your eyes the same look as 
+my son...\|Always searching, yet never truly 
+finding.",,
+,,Elderly Man,"But I don’t know where to begin... Maybe
+there’s something in my house—or outside—
+that could help.",,
+,,Elderly Man,"This sadness...\\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,Elderly Man,"This anger...\\| My son composed this music
+after we had argued... It's been years 
+I didn't speak to him...",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Ah, so you’re the newcomer... Aiden.
+You’re later than I expected. I’ve 
+been waiting for you for many years.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Keep the journal close. 
+One day, it will reveal what you seek.",,
+,,Elderly Man,You startled me!\\| I was lost in thought...,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma\pscale[1]\poff[60,20]Music... It’s curious, isn’t it?
+It can help find balance, align body and mind.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Aiden]\pscale[1]\poff[60,20]Migraines? Let me take a look.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Ah, so you’re the newcomer... Aiden.
+You’re later than I expected. I’ve been waiting
+for you for many years.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Ah, so you’re the newcomer... Aiden. You’re later than 
+I expected. I’ve been waiting for you for many years.",,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,${Healer.text5},${Healer.text5},${Healer.text5}
+,,The Healer,${Healer.text6},${Healer.text6},${Healer.text6}
+,,Aiden,${Aiden.text4},${Aiden.text4},${Aiden.text4}
+,,The Healer,${Healer.text7},${Healer.text7},${Healer.text7}
+,,Aiden,${Aiden.text5},${Aiden.text5},${Aiden.text5}
+,,The Healer,${Healer.text8},${Healer.text8},${Healer.text8}
+,,The Healer,${Healer.text9},${Healer.text9},${Healer.text9}
+,,Aiden,${Aiden.text6},${Aiden.text6},${Aiden.text6}
+,,The Healer,${Healer.text10},${Healer.text10},${Healer.text10}
+,,Aiden,${Aiden.text7},${Aiden.text7},${Aiden.text7}
+,,The Healer,${Healer.text11},${Healer.text11},${Healer.text11}
+,,The Healer,${Healer.text13},${Healer.text13},${Healer.text13}
+,,The Healer,${Healer.text14},${Healer.text14},${Healer.text14}
+,,The Healer,${Healer.text15},${Healer.text15},${Healer.text15}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]Ah, so you’re the newcomer... Aiden. 
+You’re later than I expected. 
+I’ve been waiting for you for many years.",,
+,,The Healer,"\portrait[Grandma]\pscale[1]\poff[60,20]You’re in the Oblivium,
+a place that exists between what was and 
+what is yet to be.",,
+,,The Healer,${Healer.text3},${Healer.text3},${Healer.text3}
+,,Aiden,${Aiden.text3},${Aiden.text3},${Aiden.text3}
+,,The Healer,${Healer.text4},${Healer.text4},${Healer.text4}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,The Healer,${Healer.text1},${Healer.text1},${Healer.text1}
+,,Aiden,${Aiden.text1},${Aiden.text1},${Aiden.text1}
+,,The Healer,${Healer.text2},${Healer.text2},${Healer.text2}
+,,Aiden,${Aiden.text2},${Aiden.text2},${Aiden.text2}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,${Panel.text3},${Panel.text3},${Panel.text3}
+,,,${Information.text9},${Information.text9},${Information.text9}
+,,Elderly Man,${ElderlyMan.text1},${ElderlyMan.text1},${ElderlyMan.text1}
+,,Elderly Man,${ElderlyMan.text2},${ElderlyMan.text2},${ElderlyMan.text2}
+,,Elderly Man,${ElderlyMan.text3},${ElderlyMan.text3},${ElderlyMan.text3}
+,,Elderly Man,${ElderlyMan.text4},${ElderlyMan.text4},${ElderlyMan.text4}
+,,,${Panel.text4},${Panel.text4},${Panel.text4}
+,,,"You step on the musical square, but nothing plays. It seems you lack the 
+inspiration to create music.",,
+,,Elderly Man,${Elderly.text63},${Elderly.text63},${Elderly.text63}
+,,Elderly Man,${Elderly.text61},${Elderly.text61},${Elderly.text61}
+,,Elderly Man,${Elderly.text62},${Elderly.text62},${Elderly.text62}
+,,Elderly Man,${Elderly.text7},${Elderly.text7},${Elderly.text7}
+,,Elderly Man,${ElderlyMan.text5},${ElderlyMan.text5},${ElderlyMan.text5}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,${Information.text8},${Information.text8},${Information.text8}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,That little boy...is that me?,That little boy...is that me?,That little boy...is that me?
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,,${cutscene1A.text},${cutscene1A.text},${cutscene1A.text}
+,,,${cutscene1B.text},${cutscene1B.text},${cutscene1B.text}
+,,,${cutscene1C.text},${cutscene1C.text},${cutscene1C.text}
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,
+,,[DATABASE ENTRIES],,,
+,,"[GARBAGE AND 
+CUSTOM LINES]",,,

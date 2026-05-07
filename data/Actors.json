@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor3_7","characterIndex":0,"characterName":"Aiden_$(memao)","classId":1,"equips":[2,0,0,3,0],"faceIndex":6,"faceName":"Aiden","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aiden","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_8","characterIndex":0,"characterName":"ElderlyMan_$(memao)","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"OldMan","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_7","characterIndex":2,"characterName":"ElderlyMan_$(memao)","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"OldManWLadder","nickname":"","note":"","profile":""}
+]

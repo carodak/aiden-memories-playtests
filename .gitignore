@@ -1,0 +1,62 @@
+# RPG Maker MZ - .gitignore
+
+# -------------------------------------------------
+# OS / Editor junk
+# -------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.log
+
+# -------------------------------------------------
+# RPG Maker MZ save & runtime data
+# -------------------------------------------------
+/save/
+/data/Config.rmmzsave
+/data/Global.rmmzsave
+/data/Options.rmmzsave
+
+# -------------------------------------------------
+# Deployment builds (don’t version compiled export)
+/deploy/*
+/www/*
+/builds/*
+
+# -------------------------------------------------
+# Backup / autosave files
+*.bak
+*.old
+*.tmp
+*.autosave
+*.orig
+
+# -------------------------------------------------
+# Cache / temporary editor files
+/img/cache/
+/audio/cache/
+/js/plugins/.cache
+*.rmmzproject.lock
+
+# -------------------------------------------------
+# Python virtual environments
+.venv/
+venv/
+/.venvrpg/
+tmp/scripts/.venvrpg/
+tmp/scripts/DetectRythmeTimings/.venvrpg/
+/tmp/scripts/DetectRythmeTimings/.venvrpg/*
+
+# -------------------------------------------------
+# Node / plugin dev (if you use npm for plugin tooling)
+node_modules/
+npm-debug.log
+yarn.lock
+
+# -------------------------------------------------
+# Miscellaneous
+# Keep only source JSON, plugins, assets you edit
+# -------------------------------------------------
+/profile.json
+*.zip
+*.7z
